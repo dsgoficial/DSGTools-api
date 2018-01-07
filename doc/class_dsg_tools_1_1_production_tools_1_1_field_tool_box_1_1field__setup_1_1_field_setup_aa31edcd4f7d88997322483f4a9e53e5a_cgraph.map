@@ -1,0 +1,8 @@
+<map id="DsgTools.ProductionTools.FieldToolBox.field_setup.FieldSetup.createMenu" name="DsgTools.ProductionTools.FieldToolBox.field_setup.FieldSetup.createMenu">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_complex_tools_1_1complex_window_1_1_complex_window.html#ab97194d04bc78eb3536f4c5c8325cbe1" title="DsgTools.ComplexTools.complex\lWindow.ComplexWindow.depth" alt="" coords="255,5,472,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_inventory_tools_1_1inventory_tools_1_1_inventory_tools.html#ae5e3d8c75b14858504e8acc404dbf89e" title="DsgTools.InventoryTools.inventory\lTools.InventoryTools.depth" alt="" coords="252,68,475,107"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_production_tools_1_1_field_tool_box_1_1field__setup_1_1_field_setup.html#aee4760d72fd7cb7642f05ca025a54336" title="DsgTools.ProductionTools.\lFieldToolBox.field_setup.Field\lSetup.depth" alt="" coords="264,131,463,183"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="260,207,467,232"/>
+<area shape="rect" id="node7" href="$class_dsg_tools_1_1_production_tools_1_1_field_tool_box_1_1field__setup_1_1_field_setup.html#ab4cb7ebc5baf632cc4c4eb5b4c6e2b54" title="DsgTools.ProductionTools.\lFieldToolBox.field_setup.Field\lSetup.removeChildNode" alt="" coords="264,256,463,308"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="523,200,745,239"/>
+</map>

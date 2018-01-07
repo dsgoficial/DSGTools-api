@@ -1,0 +1,6 @@
+<map id="DsgTools.CustomWidgets.genericManagerWidget.GenericManagerWidget" name="DsgTools.CustomWidgets.genericManagerWidget.GenericManagerWidget">
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_custom_widgets_1_1customization_manager_widget_1_1_customization_manager_widget.html" title="DsgTools.CustomWidgets.customization\lManagerWidget.CustomizationManagerWidget" alt="" coords="473,5,771,44"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_custom_widgets_1_1earth_coverage_manager_widget_1_1_earth_coverage_manager_widget.html" title="DsgTools.CustomWidgets.earth\lCoverageManagerWidget.EarthCoverage\lManagerWidget" alt="" coords="489,68,755,120"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_custom_widgets_1_1field_tool_box_config_manager_widget_1_1_field_tool_box_config_manager_widget.html" title="DsgTools.CustomWidgets.field\lToolBoxConfigManagerWidget.Field\lToolBoxConfigManagerWidget" alt="" coords="505,144,739,196"/>
+<area shape="rect" id="node7" href="$class_dsg_tools_1_1_custom_widgets_1_1style_manager_widget_1_1_style_manager_widget.html" title="DsgTools.CustomWidgets.style\lManagerWidget.StyleManagerWidget" alt="" coords="500,220,743,259"/>
+</map>

@@ -1,0 +1,4 @@
+var class_dsg_tools_1_1_custom_widgets_1_1_attribute_validity_widgets_1_1list_manager_widget_1_1_list_manager_widget =
+[
+    [ "__init__", "class_dsg_tools_1_1_custom_widgets_1_1_attribute_validity_widgets_1_1list_manager_widget_1_1_list_manager_widget.html#a328fba41262688c764a6f255f573fa37", null ]
+];

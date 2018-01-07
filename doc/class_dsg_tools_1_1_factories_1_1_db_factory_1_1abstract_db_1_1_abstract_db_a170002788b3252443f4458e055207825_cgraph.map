@@ -1,0 +1,5 @@
+<map id="DsgTools.Factories.DbFactory.abstractDb.AbstractDb.translateLayerWithDataFix" name="DsgTools.Factories.DbFactory.abstractDb.AbstractDb.translateLayerWithDataFix">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a6fda820eb975b10f79452e95fe3225cc" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getTableSchema" alt="" coords="327,5,572,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1spatialite_db_1_1_spatialite_db.html#af91a3c13a7dd2782cd555bfd376eeaa3" title="DsgTools.Factories.DbFactory.spatialite\lDb.SpatialiteDb.getTableSchema" alt="" coords="322,68,577,107"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#a3c0fb949623a1edca9ee934c1643b157" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.getOgrLayerIndexDict" alt="" coords="325,131,575,169"/>
+</map>

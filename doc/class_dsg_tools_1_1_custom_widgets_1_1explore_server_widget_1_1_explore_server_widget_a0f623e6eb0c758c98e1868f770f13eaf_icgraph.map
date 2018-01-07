@@ -1,0 +1,5 @@
+<map id="DsgTools.CustomWidgets.exploreServerWidget.ExploreServerWidget.populateServersCombo" name="DsgTools.CustomWidgets.exploreServerWidget.ExploreServerWidget.populateServersCombo">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_custom_widgets_1_1explore_server_widget_1_1_explore_server_widget.html#a58165dddfcd6d886307f10956597d52c" title="DsgTools.CustomWidgets.explore\lServerWidget.ExploreServerWidget.on\l_createNewServerPushButton_clicked" alt="" coords="352,5,603,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_db_tools_1_1_post_g_i_s_tool_1_1postgis_d_b_tool_1_1_postgis_d_b_tool.html#ae45b177567ac876a38ca6aeb80a9a62a" title="DsgTools.DbTools.PostGISTool.postgis\lDBTool.PostgisDBTool.__init__" alt="" coords="351,81,603,120"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_db_tools_1_1_post_g_i_s_tool_1_1postgis_d_b_tool_1_1_postgis_d_b_tool.html#a9a169080cfb0ab0ffe5dcbd9370d1e8a" title="DsgTools.DbTools.PostGISTool.postgis\lDBTool.PostgisDBTool.on_configureServer\lButton_clicked" alt="" coords="340,144,615,196"/>
+</map>

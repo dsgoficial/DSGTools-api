@@ -1,0 +1,4 @@
+<map id="DsgTools.Factories.LayerLoaderFactory.edgvLayerLoader.EDGVLayerLoader.getLyrDict" name="DsgTools.Factories.LayerLoaderFactory.edgvLayerLoader.EDGVLayerLoader.getLyrDict">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_layer_loader_factory_1_1postgis_layer_loader_1_1_post_g_i_s_layer_loader.html#a289c140dff1ec163fb9de27e9a14c8c9" title="DsgTools.Factories.Layer\lLoaderFactory.postgisLayerLoader.\lPostGISLayerLoader.load" alt="" coords="270,5,500,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_layer_loader_factory_1_1spatialite_layer_loader_1_1_spatialite_layer_loader.html#a17fcbc72caf568e12a88b1b4c1449038" title="DsgTools.Factories.Layer\lLoaderFactory.spatialiteLayer\lLoader.SpatialiteLayerLoader.load" alt="" coords="273,81,497,133"/>
+</map>

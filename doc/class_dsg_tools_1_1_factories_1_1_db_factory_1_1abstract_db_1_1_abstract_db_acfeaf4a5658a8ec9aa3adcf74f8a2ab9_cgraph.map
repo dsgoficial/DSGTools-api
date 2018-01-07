@@ -1,0 +1,6 @@
+<map id="DsgTools.Factories.DbFactory.abstractDb.AbstractDb.getStyleDict" name="DsgTools.Factories.DbFactory.abstractDb.AbstractDb.getStyleDict">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#ad0de5b485a9e6b6588effb01e62f78c9" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getStylesFromDb" alt="" coords="350,5,595,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1spatialite_db_1_1_spatialite_db.html#a5d4c9448e3ec1611a8dffd6527d77c30" title="DsgTools.Factories.DbFactory.spatialite\lDb.SpatialiteDb.getStylesFromDb" alt="" coords="345,68,600,107"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_factories_1_1_sql_factory_1_1postgis_sql_generator_1_1_post_g_i_s_sql_generator.html#a7fcfc9027730219b9318b469df014a37" title="DsgTools.Factories.SqlFactory.postgis\lSqlGenerator.PostGISSqlGenerator.getStylesFromDb" alt="" coords="303,131,642,169"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_factories_1_1_sql_factory_1_1spatialite_sql_generator_1_1_spatialite_sql_generator.html#a8e97e312390304902a7dd77e65fc1944" title="DsgTools.Factories.SqlFactory.spatialite\lSqlGenerator.SpatialiteSqlGenerator.get\lStylesFromDb" alt="" coords="343,193,602,245"/>
+</map>

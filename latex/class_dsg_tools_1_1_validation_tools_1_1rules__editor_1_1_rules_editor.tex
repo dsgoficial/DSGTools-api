@@ -1,0 +1,208 @@
+\hypertarget{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor}{}\section{Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor Class Reference}
+\label{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor}\index{Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor@{Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor}}
+
+
+Inheritance diagram for Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=240pt]{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=240pt]{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_adb9f3d4c402e7ce3934461fc1545935a}{\+\_\+\+\_\+init\+\_\+\+\_\+}} (self, postgis\+Db, parent=None)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a7f008ec4a36f3232ac3fa2d009226247}{fill\+Layers}} (self)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a0e17e38094800661106fa99e6b557413}{on\+\_\+insert\+Rule\+Button\+\_\+clicked}} (self)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a1ff924e4f1f0ac5c03a5848890a95855}{on\+\_\+remove\+Rule\+Button\+\_\+clicked}} (self)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_aca3554038ae050551f7fffb5cb9bd7fd}{insert\+Row}} (self, layer1, necessity, predicate, layer2, cardinality)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_aa15c2337138799088f04093a543d3112}{read\+File}} (self)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a8b098bf9c7bfb628789f3bb23f122d9c}{make\+Rules\+List}} (self)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_ae4d39e73ad5510aa950766ef75686ac1}{on\+\_\+predicate\+Combo\+\_\+current\+Index\+Changed}} (self, id)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a6be23e41b64b56984b901dc1241f0e34}{on\+\_\+button\+Box\+\_\+accepted}} (self)
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_ada40963ddcb796140ba6b8037209f60f}\label{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_ada40963ddcb796140ba6b8037209f60f}} 
+{\bfseries postgis\+Db}
+\item 
+\mbox{\Hypertarget{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_ac247bd8301afe39850bce9d54d630b43}\label{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_ac247bd8301afe39850bce9d54d630b43}} 
+{\bfseries rules\+File}
+\end{DoxyCompactItemize}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_adb9f3d4c402e7ce3934461fc1545935a}\label{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_adb9f3d4c402e7ce3934461fc1545935a}} 
+\index{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}!\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}}
+\index{\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}!Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}}
+\subsubsection{\texorpdfstring{\+\_\+\+\_\+init\+\_\+\+\_\+()}{\_\_init\_\_()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor.\+\_\+\+\_\+init\+\_\+\+\_\+ (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{postgis\+Db,  }\item[{}]{parent = {\ttfamily None} }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Constructor
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_adb9f3d4c402e7ce3934461fc1545935a_cgraph}
+\end{center}
+\end{figure}
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a7f008ec4a36f3232ac3fa2d009226247}\label{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a7f008ec4a36f3232ac3fa2d009226247}} 
+\index{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}!fill\+Layers@{fill\+Layers}}
+\index{fill\+Layers@{fill\+Layers}!Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}}
+\subsubsection{\texorpdfstring{fill\+Layers()}{fillLayers()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor.\+fill\+Layers (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}List classes from database
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a7f008ec4a36f3232ac3fa2d009226247_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_aca3554038ae050551f7fffb5cb9bd7fd}\label{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_aca3554038ae050551f7fffb5cb9bd7fd}} 
+\index{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}!insert\+Row@{insert\+Row}}
+\index{insert\+Row@{insert\+Row}!Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}}
+\subsubsection{\texorpdfstring{insert\+Row()}{insertRow()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor.\+insert\+Row (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{layer1,  }\item[{}]{necessity,  }\item[{}]{predicate,  }\item[{}]{layer2,  }\item[{}]{cardinality }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Inserts a new rule row in the rules table
+Parameters: layer1, necessity, predicate, layer2, cardinality
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_aca3554038ae050551f7fffb5cb9bd7fd_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a8b098bf9c7bfb628789f3bb23f122d9c}\label{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a8b098bf9c7bfb628789f3bb23f122d9c}} 
+\index{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}!make\+Rules\+List@{make\+Rules\+List}}
+\index{make\+Rules\+List@{make\+Rules\+List}!Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}}
+\subsubsection{\texorpdfstring{make\+Rules\+List()}{makeRulesList()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor.\+make\+Rules\+List (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Makes a rule list from the table
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a8b098bf9c7bfb628789f3bb23f122d9c_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a6be23e41b64b56984b901dc1241f0e34}\label{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a6be23e41b64b56984b901dc1241f0e34}} 
+\index{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}!on\+\_\+button\+Box\+\_\+accepted@{on\+\_\+button\+Box\+\_\+accepted}}
+\index{on\+\_\+button\+Box\+\_\+accepted@{on\+\_\+button\+Box\+\_\+accepted}!Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}}
+\subsubsection{\texorpdfstring{on\+\_\+button\+Box\+\_\+accepted()}{on\_buttonBox\_accepted()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor.\+on\+\_\+button\+Box\+\_\+accepted (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Saves the rule list created
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a6be23e41b64b56984b901dc1241f0e34_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a0e17e38094800661106fa99e6b557413}\label{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a0e17e38094800661106fa99e6b557413}} 
+\index{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}!on\+\_\+insert\+Rule\+Button\+\_\+clicked@{on\+\_\+insert\+Rule\+Button\+\_\+clicked}}
+\index{on\+\_\+insert\+Rule\+Button\+\_\+clicked@{on\+\_\+insert\+Rule\+Button\+\_\+clicked}!Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}}
+\subsubsection{\texorpdfstring{on\+\_\+insert\+Rule\+Button\+\_\+clicked()}{on\_insertRuleButton\_clicked()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor.\+on\+\_\+insert\+Rule\+Button\+\_\+clicked (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Inserts a new rule
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a0e17e38094800661106fa99e6b557413_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_ae4d39e73ad5510aa950766ef75686ac1}\label{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_ae4d39e73ad5510aa950766ef75686ac1}} 
+\index{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}!on\+\_\+predicate\+Combo\+\_\+current\+Index\+Changed@{on\+\_\+predicate\+Combo\+\_\+current\+Index\+Changed}}
+\index{on\+\_\+predicate\+Combo\+\_\+current\+Index\+Changed@{on\+\_\+predicate\+Combo\+\_\+current\+Index\+Changed}!Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}}
+\subsubsection{\texorpdfstring{on\+\_\+predicate\+Combo\+\_\+current\+Index\+Changed()}{on\_predicateCombo\_currentIndexChanged()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor.\+on\+\_\+predicate\+Combo\+\_\+current\+Index\+Changed (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{id }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Slot to update cardinality in case the predicate is ''disjoint
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_ae4d39e73ad5510aa950766ef75686ac1_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a1ff924e4f1f0ac5c03a5848890a95855}\label{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_a1ff924e4f1f0ac5c03a5848890a95855}} 
+\index{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}!on\+\_\+remove\+Rule\+Button\+\_\+clicked@{on\+\_\+remove\+Rule\+Button\+\_\+clicked}}
+\index{on\+\_\+remove\+Rule\+Button\+\_\+clicked@{on\+\_\+remove\+Rule\+Button\+\_\+clicked}!Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}}
+\subsubsection{\texorpdfstring{on\+\_\+remove\+Rule\+Button\+\_\+clicked()}{on\_removeRuleButton\_clicked()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor.\+on\+\_\+remove\+Rule\+Button\+\_\+clicked (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Remove a selected rule
+\end{DoxyVerb}
+ \mbox{\Hypertarget{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_aa15c2337138799088f04093a543d3112}\label{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_aa15c2337138799088f04093a543d3112}} 
+\index{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}!read\+File@{read\+File}}
+\index{read\+File@{read\+File}!Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor@{Dsg\+Tools\+::\+Validation\+Tools\+::rules\+\_\+editor\+::\+Rules\+Editor}}
+\subsubsection{\texorpdfstring{read\+File()}{readFile()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Validation\+Tools.\+rules\+\_\+editor.\+Rules\+Editor.\+read\+File (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Reads the rule file
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_aa15c2337138799088f04093a543d3112_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_validation_tools_1_1rules__editor_1_1_rules_editor_aa15c2337138799088f04093a543d3112_icgraph}
+\end{center}
+\end{figure}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+/\+Users/luiz/.\+qgis2/python/plugins/\+Dsg\+Tools/\+Validation\+Tools/rules\+\_\+editor.\+py\end{DoxyCompactItemize}

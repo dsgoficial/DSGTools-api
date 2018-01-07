@@ -1,0 +1,9 @@
+var class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1snap_lines_to_frame_process_1_1_snap_lines_to_frame_process =
+[
+    [ "__init__", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1snap_lines_to_frame_process_1_1_snap_lines_to_frame_process.html#a1c2a11aa0e9f4af689545d552809afcc", null ],
+    [ "execute", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1snap_lines_to_frame_process_1_1_snap_lines_to_frame_process.html#af36ad7e2778de6c56e5b6246be685e4f", null ],
+    [ "classesWithElemDict", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1snap_lines_to_frame_process_1_1_snap_lines_to_frame_process.html#a1d6e46df65d5632647aaeb8a8feafdba", null ],
+    [ "frameCandidateDict", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1snap_lines_to_frame_process_1_1_snap_lines_to_frame_process.html#a63f7382bba025a7cd4bb0f31747f223c", null ],
+    [ "parameters", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1snap_lines_to_frame_process_1_1_snap_lines_to_frame_process.html#afd118b0def1fa79c0849b8faf6da7b6a", null ],
+    [ "processAlias", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1snap_lines_to_frame_process_1_1_snap_lines_to_frame_process.html#a5ebb4483a8a4b977bf44c26f9dd6013d", null ]
+];

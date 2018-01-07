@@ -1,0 +1,4 @@
+<map id="DsgTools.Factories.DbCreatorFactory.dbCreator.DbCreator" name="DsgTools.Factories.DbCreatorFactory.dbCreator.DbCreator">
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_db_creator_factory_1_1postgis_db_creator_1_1_postgis_db_creator.html" title="DsgTools.Factories.DbCreator\lFactory.postgisDbCreator.Postgis\lDbCreator" alt="" coords="382,5,601,57"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_factories_1_1_db_creator_factory_1_1spatialite_db_creator_1_1_spatialite_db_creator.html" title="DsgTools.Factories.DbCreator\lFactory.spatialiteDbCreator.Spatialite\lDbCreator" alt="" coords="371,81,612,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="DsgTools.Factories.SqlFactory.sqlGenerator.SqlGenerator" name="DsgTools.Factories.SqlFactory.sqlGenerator.SqlGenerator">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_sql_factory_1_1postgis_sql_generator_1_1_post_g_i_s_sql_generator.html" title="DsgTools.Factories.SqlFactory.postgis\lSqlGenerator.PostGISSqlGenerator" alt="" coords="280,5,528,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_sql_factory_1_1spatialite_sql_generator_1_1_spatialite_sql_generator.html" title="DsgTools.Factories.SqlFactory.spatialite\lSqlGenerator.SpatialiteSqlGenerator" alt="" coords="275,68,533,107"/>
+</map>

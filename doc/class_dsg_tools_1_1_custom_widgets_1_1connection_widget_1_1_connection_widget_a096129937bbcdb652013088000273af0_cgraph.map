@@ -1,0 +1,7 @@
+<map id="DsgTools.CustomWidgets.connectionWidget.ConnectionWidget.loadDatabase" name="DsgTools.CustomWidgets.connectionWidget.ConnectionWidget.loadDatabase">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_custom_widgets_1_1_advanced_connection_widgets_1_1connection_combo_box_1_1_connection_combo_box.html#a75a364748be0f540da9601ad67c77190" title="DsgTools.CustomWidgets.Advanced\lConnectionWidgets.connectionComboBox.\lConnectionComboBox.closeDatabase" alt="" coords="315,5,590,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a5db934d202ff7387e420a05fbf1508ed" title="DsgTools.CustomWidgets.connection\lWidget.ConnectionWidget.closeDatabase" alt="" coords="319,81,586,120"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="638,175,845,200"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a33b3f9d4a7fa240bda00d7d874e7fa49" title="DsgTools.CustomWidgets.connection\lWidget.ConnectionWidget.setCRS" alt="" coords="331,196,573,235"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="893,168,1114,207"/>
+</map>

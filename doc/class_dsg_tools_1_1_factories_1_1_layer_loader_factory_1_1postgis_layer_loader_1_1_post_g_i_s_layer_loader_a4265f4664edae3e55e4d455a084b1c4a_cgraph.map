@@ -1,0 +1,4 @@
+<map id="DsgTools.Factories.LayerLoaderFactory.postgisLayerLoader.PostGISLayerLoader.__init__" name="DsgTools.Factories.LayerLoaderFactory.postgisLayerLoader.PostGISLayerLoader.__init__">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_layer_loader_factory_1_1postgis_layer_loader_1_1_post_g_i_s_layer_loader.html#a80eee9b76693f19791b9ff8fa3c4f805" title="DsgTools.Factories.Layer\lLoaderFactory.postgisLayerLoader.\lPostGISLayerLoader.setDatabaseConnection" alt="" coords="283,5,575,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_layer_loader_factory_1_1postgis_layer_loader_1_1_post_g_i_s_layer_loader.html#aa480a36fa57c9daa9b1633eaa8d478ca" title="DsgTools.Factories.Layer\lLoaderFactory.postgisLayerLoader.\lPostGISLayerLoader.buildUri" alt="" coords="314,81,544,133"/>
+</map>

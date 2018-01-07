@@ -1,0 +1,9 @@
+<map id="DsgTools.ImageTools.raster_processing.RasterProcess.pansharpenImage" name="DsgTools.ImageTools.raster_processing.RasterProcess.pansharpenImage">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#a9efca9cef0b40ad8ca0e4e0b949efc8d" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.openRaster" alt="" coords="349,5,606,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#ae0baa21e8ad949a1b32a7b5009cdda5b" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.create\lRaster" alt="" coords="365,68,590,120"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#a12d8f5cf2100deb19ccf59e86596648e" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.readBlock" alt="" coords="354,144,601,183"/>
+<area shape="rect" id="node8" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#abd1c9e282d7419d6f808986c26f7bdd2" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.writeBlock" alt="" coords="353,207,602,245"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#a27bbae0bc866c3f178be14c3f0738d6c" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.getGeoreferenceInfo" alt="" coords="654,45,964,84"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#aef5604afa2c25b7eef155b0946c44792" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.getCRS" alt="" coords="692,108,926,147"/>
+<area shape="rect" id="node7" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#af890891226e6d4972902850f68100d88" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.getNumpyType" alt="" coords="670,173,948,212"/>
+</map>

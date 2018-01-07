@@ -1,0 +1,5 @@
+<map id="DsgTools.ProcessingTools.processManager.ProcessManager.prepareProcess" name="DsgTools.ProcessingTools.processManager.ProcessManager.prepareProcess">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager.html#a0fb7d4b7632e7b9f848f616f0ca0efbe" title="DsgTools.ProcessingTools.process\lManager.ProcessManager.createPostgis\lDatabaseProcess" alt="" coords="340,5,602,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager.html#ae8be5cb86cdef40fe5c2ed6544fbb235" title="DsgTools.ProcessingTools.process\lManager.ProcessManager.createDpiProcess" alt="" coords="328,81,614,120"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager.html#a28a26a3c90baa1c7416b92c2c34e44c7" title="DsgTools.ProcessingTools.process\lManager.ProcessManager.createInventory\lProcess" alt="" coords="335,144,607,196"/>
+</map>

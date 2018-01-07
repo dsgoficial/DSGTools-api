@@ -1,0 +1,6 @@
+<map id="DsgTools.ImageTools.raster_processing.RasterProcess.createRaster" name="DsgTools.ImageTools.raster_processing.RasterProcess.createRaster">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#af334cdc5aa7d11ee74e1cc97b3007abf" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.create\lRasterFromRGBbands" alt="" coords="314,5,539,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#ab97bd21a7e0e90893917b02be37d8001" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.pansharpenImage" alt="" coords="278,81,574,120"/>
+<area shape="rect" id="node4" href="$class_h_s_v__fusion_1_1_raster_process.html#a50e79f6868107a0c9234edfe7800443e" title="HSV_fusion.RasterProcess.create\lRasterFromRGBbands" alt="" coords="314,144,538,183"/>
+<area shape="rect" id="node5" href="$class_h_s_v__fusion_1_1_raster_process.html#aca76f020e0abc7e7985a82381f989d9a" title="HSV_fusion.RasterProcess.pansharpen\lImage" alt="" coords="298,207,555,245"/>
+</map>

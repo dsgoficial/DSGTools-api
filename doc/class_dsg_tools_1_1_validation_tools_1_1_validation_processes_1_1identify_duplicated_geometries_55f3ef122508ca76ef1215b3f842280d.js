@@ -1,0 +1,8 @@
+var class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1identify_duplicated_geometries_55f3ef122508ca76ef1215b3f842280d =
+[
+    [ "__init__", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1identify_duplicated_geometries_55f3ef122508ca76ef1215b3f842280d.html#ac404e8bd0c6e0c038e30c51bd9c5bfc9", null ],
+    [ "execute", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1identify_duplicated_geometries_55f3ef122508ca76ef1215b3f842280d.html#aecfd6be3d352a2e2c1888f25aa80ddfb", null ],
+    [ "classesWithElemDict", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1identify_duplicated_geometries_55f3ef122508ca76ef1215b3f842280d.html#a2b326fb02df0e9f0aa7790b55a69d5ed", null ],
+    [ "parameters", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1identify_duplicated_geometries_55f3ef122508ca76ef1215b3f842280d.html#a4f55c8bfb28487a006a7febf42e50b78", null ],
+    [ "processAlias", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1identify_duplicated_geometries_55f3ef122508ca76ef1215b3f842280d.html#a3b5a7e0a677445263d0ba3454a6ab5e2", null ]
+];

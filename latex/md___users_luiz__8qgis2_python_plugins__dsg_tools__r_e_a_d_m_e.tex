@@ -1,0 +1,87 @@
+\href{https://gitter.im/DsgTools/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge}{\tt } 
+
+ \#\+D\+SG Master Plugin (English Version)
+
+D\+S\+G\+Tools is a Q\+G\+IS plugin that allow users to create and manipulate Geospatial Data according to Brazilian Law (E\+T-\/\+E\+D\+GV 2.\+1.\+3 and E\+T-\/\+E\+D\+GV Defesa F Ter 2ª Edição). D\+S\+G\+Tools aims to provide tools not only to Brazilian Army, but to G\+IS comunity in general.
+
+D\+S\+G\+Tools 2.\+0 has the following features\+: -\/\+Creation, Storage and Deletion of Post\+G\+IS servers configurations;
+
+-\/\+Database creation using Spatialite and Post\+G\+IS according to E\+D\+GV version 2.\+1.\+3 and E\+D\+GV version F\+Ter\+\_\+2a\+\_\+\+Ed (cadaster);
+
+-\/\+Layer loading by category and class as defined by E\+D\+GV version 2.\+1.\+3 and E\+D\+GV version F\+Ter\+\_\+2a\+\_\+\+Ed (cadaster);
+
+-\/\+Layer loading grouping by geometric primitive and schema for any Post\+G\+IS database;
+
+-\/\+Manipulation of complex features (Creation, Editing, Deletion, Zoom, Association, Disassociation) and;
+
+-\/\+Access to some W\+M(\+T)S services provided by B\+D\+G\+Ex (Brazilian Army S\+DI);
+
+-\/\+Inventory Tool for all geospatial data supported by G\+D\+A\+L/\+O\+GR;
+
+-\/\+Tool to install Models and Script (geoalgorithms) in the Processing Toolbox (H\+SV fusion script available);
+
+-\/\+Database role management. Access profile (i.\+e. Read/\+Write permissions by table in database );
+
+-\/\+Database user profile management (e.\+g. Grant/\+Revoke predifined roles to/from user );
+
+-\/\+Create/\+Remove Postgre\+S\+QL users;
+
+-\/\+Alter Postgre\+S\+QL user Password;
+
+-\/\+Conversion tools between postgis and spatialite E\+D\+GV databases;
+
+-\/\+Tool to assign elevation values to contour lines in a simple way;
+
+-\/\+E\+D\+GV code list viewer to aid attributes queries using our E\+D\+GV databases;
+
+-\/\+Drop E\+D\+GV databases;
+
+-\/\+Remove missing databases from qsettings;
+
+-\/\+Tool to reclassify features (move them to another layer) with predefined attributes;
+
+-\/\+Validation Tools\+: fix geometry problems prior to creating a topology structure;
+
+Requirements for L\+I\+N\+UX (Ubuntu/\+Debian)\+: Install the following packages as follows\+: sudo apt-\/get install python-\/qt4-\/sql sudo apt-\/get install libqt4-\/sql-\/psql sudo apt-\/get install libqt4-\/sql-\/sqlite 
+
+ \#\+D\+SG Master Plugin (Versão em Português)
+
+O D\+S\+G\+Tools é um plugin para o Q\+G\+IS (\href{http://qgis.org/pt_BR/site/}{\tt http\+://qgis.\+org/pt\+\_\+\+B\+R/site/}) que permite aos usuários a criação e utilização de produtos cartográficos de acordo com as especificações da E\+T-\/\+E\+D\+GV 2.\+1.\+3 e da E\+T-\/\+E\+D\+GV Defesa F Ter 2ª Edição. O D\+S\+G\+Tools visa atender não apenas o Exército Brasileiro, mas também produtores e usuários de geoinformação da sociedade. Este projeto visa cumprir a missão estabelecida no Plano Estratégico do Exército 2016-\/2019 (P\+E\+Ex 2016-\/2019), relativo ao seguinte Objetivo Estratégico do Exército (O\+EE)\+: • O\+EE 7 -\/ Aprimorar a Governança de Tecnologia da Informação; • Estratégia 7.\+2 -\/ Reorganização do Sistema de Informação do Exército (S\+I\+N\+F\+O\+Ex); • Ação Estratégica 7.\+2.\+1 -\/ Aperfeiçoar a produção e disponibilização da geoinformação; • Atividade imposta 7.\+2.\+1.\+5 -\/ Implantar o S\+IG para ambiente desktop no âmbito do Exército.
+
+O plugin foi todo desenvolvido em python e está disponível para download pelo próprio Q\+G\+IS ou pelo endereço \href{http://plugins.qgis.org/plugins/DsgTools/}{\tt http\+://plugins.\+qgis.\+org/plugins/\+Dsg\+Tools/}.
+
+Estão disponíveis as seguintes funcionalidades no plugin em sua versão 2.\+0\+:
+
+Criação, armazenamento e remoção de configuração de servidores Post\+G\+IS;
+
+Criação de banco de dados em Spatialite e em Post\+G\+IS de acordo a E\+T-\/\+E\+D\+GV 2.\+1.\+3;
+
+Criação de banco de dados em Spatialite e em Post\+G\+IS de acordo com E\+T-\/\+E\+D\+GV Defesa F Ter 2ª Edição;
+
+Carregamento de camadas por classe e por categoria conforme definido na E\+D\+GV 2.\+1.\+3 e na E\+T-\/\+E\+D\+GV Defesa F Ter 2ª Edição;
+
+Manipulação de feições complexas (criação, edição, remoção, zoom, associação e desassociação);
+
+Acesso a alguns serviços W\+M(\+T)S do B\+D\+G\+Ex e;
+
+Acesso ao mapa índice de produtos vetoriais e matriciais do B\+D\+G\+Ex.
+
+Ferramenta de Inventário de Dados Geoespaciais suportados pela G\+D\+A\+L/\+O\+GR;
+
+Ferramentas para instalar modelos e scripts (geoalgoritmos) na Caixa de Ferramenta do Q\+G\+IS;
+
+Gerenciamento de permissoes de usuários (ex. Permissões de leitura/escrita em partes espcíficas do banco);
+
+Criação/\+Remoção de usuários no Postgre\+S\+QL;
+
+Alteração de senha de usuários no Postgre\+S\+QL;
+
+Conversão entre formatos de bancos de dados (Post\+G\+IS para Spatialite e vice e versa);
+
+Ferramenta para atribuição de cotas de maneira automática para isolinhas;
+
+Visualizador de valores de códigos da E\+D\+GV para auxiliar em consultas por atributos;
+
+Deleção de bancos E\+D\+GV feitos em Postgre\+S\+QL;
+
+Remoção informações de bancos de dados faltantes no Q\+G\+IS; 

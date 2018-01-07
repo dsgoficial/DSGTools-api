@@ -1,0 +1,5 @@
+<map id="DsgTools.ServerTools.viewServers.ViewServers.returnSelectedName" name="DsgTools.ServerTools.viewServers.ViewServers.returnSelectedName">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_server_tools_1_1view_servers_1_1_view_servers.html#a7b30a898844e959a84692889dba4f969" title="DsgTools.ServerTools.view\lServers.ViewServers.on\l_editButton_clicked" alt="" coords="325,5,506,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_server_tools_1_1view_servers_1_1_view_servers.html#a36ff167362cfb77b33c3a334dba8f6d2" title="DsgTools.ServerTools.view\lServers.ViewServers.on\l_removeButton_clicked" alt="" coords="325,81,506,133"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_server_tools_1_1view_servers_1_1_view_servers.html#a778e3427c24e845df98c73689e392997" title="DsgTools.ServerTools.view\lServers.ViewServers.on\l_testButton_clicked" alt="" coords="325,157,506,209"/>
+</map>

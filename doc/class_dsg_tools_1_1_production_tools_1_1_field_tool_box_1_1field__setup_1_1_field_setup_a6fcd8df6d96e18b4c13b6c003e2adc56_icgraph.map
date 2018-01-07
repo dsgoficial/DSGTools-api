@@ -1,0 +1,5 @@
+<map id="DsgTools.ProductionTools.FieldToolBox.field_setup.FieldSetup.clearAttributeTableWidget" name="DsgTools.ProductionTools.FieldToolBox.field_setup.FieldSetup.clearAttributeTableWidget">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_production_tools_1_1_field_tool_box_1_1field__setup_1_1_field_setup.html#a9c08a3099b5652afb71904d52b9c7d48" title="DsgTools.ProductionTools.\lFieldToolBox.field_setup.Field\lSetup.populateAttributeFormFromSpatialite" alt="" coords="265,5,543,57"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_production_tools_1_1_field_tool_box_1_1field__setup_1_1_field_setup.html#a23cbaa8a07f0b9084a1700358d201a04" title="DsgTools.ProductionTools.\lFieldToolBox.field_setup.Field\lSetup.populateAttributeFormFromPostgis" alt="" coords="271,81,537,133"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_production_tools_1_1_field_tool_box_1_1field__setup_1_1_field_setup.html#a6e2d8c353c167c84942872b12d46306f" title="DsgTools.ProductionTools.\lFieldToolBox.field_setup.Field\lSetup.on_tableComboBox_currentIndex\lChanged" alt="" coords="591,37,849,103"/>
+</map>

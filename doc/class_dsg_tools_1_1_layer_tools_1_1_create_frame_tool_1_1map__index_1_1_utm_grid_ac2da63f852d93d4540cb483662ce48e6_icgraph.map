@@ -1,0 +1,6 @@
+<map id="DsgTools.LayerTools.CreateFrameTool.map_index.UtmGrid.getScaleIdFromiNomen" name="DsgTools.LayerTools.CreateFrameTool.map_index.UtmGrid.getScaleIdFromiNomen">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_layer_tools_1_1_create_frame_tool_1_1map__index_1_1_utm_grid.html#a5526730674c00c9312d8c4278ed06c75" title="DsgTools.LayerTools.Create\lFrameTool.map_index.UtmGrid.getScale" alt="" coords="282,108,544,147"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_layer_tools_1_1_create_frame_tool_1_1map__index_1_1_utm_grid.html#a233e42aa31272b74df7f1ea5a3d2583f" title="DsgTools.LayerTools.Create\lFrameTool.map_index.UtmGrid.populate\lQgsLayer" alt="" coords="902,37,1163,89"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_layer_tools_1_1_create_frame_tool_1_1map__index_1_1_utm_grid.html#a50d47526233975cfd827317b5eb52c41" title="DsgTools.LayerTools.Create\lFrameTool.map_index.UtmGrid.compute\lNumberOfSteps" alt="" coords="592,5,854,57"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_layer_tools_1_1_create_frame_tool_1_1map__index_1_1_utm_grid.html#a966bc1ef179c687e96a4cd4cca9b20c1" title="DsgTools.LayerTools.Create\lFrameTool.map_index.UtmGrid.get\lQgsPolygonFrame" alt="" coords="609,133,837,185"/>
+</map>

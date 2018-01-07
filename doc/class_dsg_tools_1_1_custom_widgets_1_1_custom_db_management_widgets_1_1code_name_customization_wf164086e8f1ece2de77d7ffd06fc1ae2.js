@@ -1,0 +1,18 @@
+var class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2 =
+[
+    [ "__init__", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#a3abf03136b9ec5543135a9e482addd55", null ],
+    [ "getJSONTag", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#a5f870f28065b75968088f2a6c24285b6", null ],
+    [ "getTitle", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#a7eedd0f3b8c66e5925acea3009df7cf4", null ],
+    [ "getUiParameterJsonDict", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#a346f15ae7b69dcef65ccf5c077b3d443", null ],
+    [ "on_domainComboBox_currentIndexChanged", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#abe93ea8b19445d8c4be7c057faea7f77", null ],
+    [ "on_oldCodeNameComboBox_currentIndexChanged", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#a4dc1bff4ad9caca8d800b01d27600ed3", null ],
+    [ "populateDomainCombo", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#a2e1b1efc666e2371de2c55a9107735d5", null ],
+    [ "populateFromUiParameterJsonDict", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#a1e1eac31ae714c40edf69ab155e17c41", null ],
+    [ "setTitle", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#adbfcb6477185b6cd6cc6e50f4aa417b0", null ],
+    [ "validate", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#a619911869cee10dc0c410af9d9858cbd", null ],
+    [ "validateDiagnosis", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#aa2796befc8fdb22542771a16eb5aa9b4", null ],
+    [ "abstractDb", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#a5a084682a34648228984353df9859d57", null ],
+    [ "domainDict", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#a164c4135ffffed260f6be147c5c6a3a2", null ],
+    [ "jsonBuilder", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#ace6951181505f0e815d32a97052965f2", null ],
+    [ "title", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1code_name_customization_wf164086e8f1ece2de77d7ffd06fc1ae2.html#a090f20e4145a2b25cb9729ef3f3e409d", null ]
+];

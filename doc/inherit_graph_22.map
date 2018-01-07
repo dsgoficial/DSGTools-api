@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_thread_factory_1_1generic_thread_1_1_generic_thread.html" title="DsgTools.Factories.Thread\lFactory.genericThread.GenericThread" alt="" coords="142,75,389,113"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_thread_factory_1_1dpi_thread_1_1_dpi_thread.html" title="DsgTools.Factories.Thread\lFactory.dpiThread.DpiThread" alt="" coords="452,5,646,44"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_factories_1_1_thread_factory_1_1inventory_thread_1_1_inventory_thread.html" title="DsgTools.Factories.Thread\lFactory.inventoryThread.Inventory\lThread" alt="" coords="437,68,661,120"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_factories_1_1_thread_factory_1_1postgis_db_thread_1_1_postgis_db_thread.html" title="DsgTools.Factories.Thread\lFactory.postgisDbThread.Postgis\lDbThread" alt="" coords="440,144,658,196"/>
+</map>

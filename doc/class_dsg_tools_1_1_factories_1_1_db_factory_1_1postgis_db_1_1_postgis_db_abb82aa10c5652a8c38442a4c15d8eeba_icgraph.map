@@ -1,0 +1,4 @@
+<map id="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.getOrphanGeomTablesWithElements" name="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.getOrphanGeomTablesWithElements">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#aae3059a8f801efd4da98bbd3ebbff1c7" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getOrphanGeomTables" alt="" coords="324,29,569,68"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#ac040dfd453d8439f6a23eac91d313afc" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getGeomColumnTupleList" alt="" coords="617,29,878,68"/>
+</map>

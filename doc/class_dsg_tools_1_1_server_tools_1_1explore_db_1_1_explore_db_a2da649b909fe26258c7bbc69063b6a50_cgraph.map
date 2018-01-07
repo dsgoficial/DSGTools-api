@@ -1,0 +1,8 @@
+<map id="DsgTools.ServerTools.exploreDb.ExploreDb.on_dbListWidget_currentItemChanged" name="DsgTools.ServerTools.exploreDb.ExploreDb.on_dbListWidget_currentItemChanged">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="289,12,496,37"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a48ccc57d9eb999c49cf9a1926f6d92af" title="DsgTools.CustomWidgets.permission\lWidget.PermissionWidget.createItem" alt="" coords="271,61,514,100"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_postgis_customization_1_1create_database_customization_1_1_create_database_customization.html#a6de40988622604dbb758a3d8d0c0e0cd" title="DsgTools.PostgisCustomization.create\lDatabaseCustomization.CreateDatabase\lCustomization.createItem" alt="" coords="261,124,524,176"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_server_tools_1_1batch_db_manager_1_1_batch_db_manager.html#a89e77603933aff98c91037cd7225aa2b" title="DsgTools.ServerTools.batch\lDbManager.BatchDbManager.createItem" alt="" coords="261,200,524,239"/>
+<area shape="rect" id="node7" href="$class_dsg_tools_1_1_server_tools_1_1explore_db_1_1_explore_db.html#a526574416eadb2311ed5ce6fccced60e" title="DsgTools.ServerTools.explore\lDb.ExploreDb.createItem" alt="" coords="294,263,491,301"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="572,5,794,44"/>
+</map>

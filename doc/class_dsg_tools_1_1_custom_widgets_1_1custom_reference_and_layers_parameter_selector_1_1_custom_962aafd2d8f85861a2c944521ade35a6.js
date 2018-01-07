@@ -1,0 +1,15 @@
+var class_dsg_tools_1_1_custom_widgets_1_1custom_reference_and_layers_parameter_selector_1_1_custom_962aafd2d8f85861a2c944521ade35a6 =
+[
+    [ "__init__", "class_dsg_tools_1_1_custom_widgets_1_1custom_reference_and_layers_parameter_selector_1_1_custom_962aafd2d8f85861a2c944521ade35a6.html#a72e19c4eda8ce988df1411fd5906624d", null ],
+    [ "getParameters", "class_dsg_tools_1_1_custom_widgets_1_1custom_reference_and_layers_parameter_selector_1_1_custom_962aafd2d8f85861a2c944521ade35a6.html#aabeb5878cda5cb9cb474a1ca63ea5656", null ],
+    [ "on_referenceComboBox_currentIndexChanged", "class_dsg_tools_1_1_custom_widgets_1_1custom_reference_and_layers_parameter_selector_1_1_custom_962aafd2d8f85861a2c944521ade35a6.html#aabdfc0d14b8bccce6b347e10dcd11a20", null ],
+    [ "setInitialState", "class_dsg_tools_1_1_custom_widgets_1_1custom_reference_and_layers_parameter_selector_1_1_custom_962aafd2d8f85861a2c944521ade35a6.html#a8f6443179698e87d12f29b01041c33cd", null ],
+    [ "setTitle", "class_dsg_tools_1_1_custom_widgets_1_1custom_reference_and_layers_parameter_selector_1_1_custom_962aafd2d8f85861a2c944521ade35a6.html#a6fd4ae2ca7bec5b321379f2b9977fe54", null ],
+    [ "layersDictList", "class_dsg_tools_1_1_custom_widgets_1_1custom_reference_and_layers_parameter_selector_1_1_custom_962aafd2d8f85861a2c944521ade35a6.html#a2c415db82c42ee823c226ed993c58732", null ],
+    [ "layersTextDict", "class_dsg_tools_1_1_custom_widgets_1_1custom_reference_and_layers_parameter_selector_1_1_custom_962aafd2d8f85861a2c944521ade35a6.html#a8ebbb9dd00ac1acaa22585f87f3173b6", null ],
+    [ "referenceDictList", "class_dsg_tools_1_1_custom_widgets_1_1custom_reference_and_layers_parameter_selector_1_1_custom_962aafd2d8f85861a2c944521ade35a6.html#a49a9db227a6b2bcf3ed390df21b05fc4", null ],
+    [ "referenceLayerKey", "class_dsg_tools_1_1_custom_widgets_1_1custom_reference_and_layers_parameter_selector_1_1_custom_962aafd2d8f85861a2c944521ade35a6.html#a1d6cb528854cccf82fe6d7ddc7f8886c", null ],
+    [ "referenceTextDict", "class_dsg_tools_1_1_custom_widgets_1_1custom_reference_and_layers_parameter_selector_1_1_custom_962aafd2d8f85861a2c944521ade35a6.html#abca0dad6abbc00ddee8381ffc0c946ea", null ],
+    [ "selectedLayersItems", "class_dsg_tools_1_1_custom_widgets_1_1custom_reference_and_layers_parameter_selector_1_1_custom_962aafd2d8f85861a2c944521ade35a6.html#a3d611d74ab786d2a685a74045c872620", null ],
+    [ "unifiedList", "class_dsg_tools_1_1_custom_widgets_1_1custom_reference_and_layers_parameter_selector_1_1_custom_962aafd2d8f85861a2c944521ade35a6.html#ae9734b6168dd7628ed5f90e8d7190c08", null ]
+];

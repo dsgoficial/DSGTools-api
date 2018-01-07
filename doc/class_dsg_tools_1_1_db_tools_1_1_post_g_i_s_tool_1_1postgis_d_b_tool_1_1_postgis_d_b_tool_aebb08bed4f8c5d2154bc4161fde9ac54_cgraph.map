@@ -1,0 +1,4 @@
+<map id="DsgTools.DbTools.PostGISTool.postgisDBTool.PostgisDBTool.populateServersCombo" name="DsgTools.DbTools.PostGISTool.postgisDBTool.PostgisDBTool.populateServersCombo">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_custom_widgets_1_1explore_server_widget_1_1_explore_server_widget.html#a637e196dd18e352d8635b217dc8b75bf" title="DsgTools.CustomWidgets.explore\lServerWidget.ExploreServerWidget.get\lServers" alt="" coords="352,5,606,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_db_tools_1_1_post_g_i_s_tool_1_1postgis_d_b_tool_1_1_postgis_d_b_tool.html#abbb0bbb9e0f488feb77fdea7b220f6d0" title="DsgTools.DbTools.PostGISTool.postgis\lDBTool.PostgisDBTool.getServers" alt="" coords="353,81,605,120"/>
+</map>

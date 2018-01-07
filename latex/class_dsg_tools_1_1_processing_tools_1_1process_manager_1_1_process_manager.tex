@@ -1,0 +1,270 @@
+\hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager}{}\section{Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager Class Reference}
+\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager}\index{Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager@{Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager}}
+
+
+Inheritance diagram for Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=251pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=251pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a43cebabb5fc93fb7888976a97dc353ad}{\+\_\+\+\_\+init\+\_\+\+\_\+}} (self, iface)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_ab6a56eaab22e457bcb0eb8a9f70e3e05}{find\+Progress\+Bar}} (self, uuid)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a3cb0f2196fab53adc17312b1eadd2386}{find\+Process}} (self, uuid)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a6b891be03fdd827eff9a157038560cd2}{set\+Progress\+Range}} (self, maximum, uuid)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a9b8eea4c358a48a612ac8f2d285708b4}{step\+Processed}} (self, uuid)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a3054cb26b2103882257b1d2008bec546}{process\+Finished}} (self, feedback, message, uuid)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a314d0e639c22ed78d70c63a6740a5337}{prepare\+Process}} (self, process, message)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a0fb7d4b7632e7b9f848f616f0ca0efbe}{create\+Postgis\+Database\+Process}} (self, db\+Name, abstract\+Db, version, epsg)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_ae8be5cb86cdef40fe5c2ed6544fbb235}{create\+Dpi\+Process}} (self, files\+List, raster\+Type, min\+Out\+Value, max\+Out\+Value, out\+Dir, percent, epsg)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a28a26a3c90baa1c7416b92c2c34e44c7}{create\+Inventory\+Process}} (self, parent\+Folder, output\+File, make\+Copy, destination\+Folder, formats\+List, is\+Whitelist, is\+Only\+Geo)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a0c50cae9890b30ee3d01b34622ca0dbb}{load\+Inventory\+File}} (self, output\+File, is\+Only\+Geo)
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a4d4e66259db8fcce17dbb3d721ddfc46}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a4d4e66259db8fcce17dbb3d721ddfc46}} 
+{\bfseries iface}
+\item 
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_adebb67ff274104c33be3eba7779c588a}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_adebb67ff274104c33be3eba7779c588a}} 
+{\bfseries process\+Dict}
+\item 
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_acfb82c6b858f73c1465cef82cb7f7e67}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_acfb82c6b858f73c1465cef82cb7f7e67}} 
+{\bfseries thread\+Factory}
+\end{DoxyCompactItemize}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a43cebabb5fc93fb7888976a97dc353ad}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a43cebabb5fc93fb7888976a97dc353ad}} 
+\index{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}!\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}}
+\index{\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}!Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}}
+\subsubsection{\texorpdfstring{\+\_\+\+\_\+init\+\_\+\+\_\+()}{\_\_init\_\_()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager.\+\_\+\+\_\+init\+\_\+\+\_\+ (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{iface }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Constructor
+\end{DoxyVerb}
+ 
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_ae8be5cb86cdef40fe5c2ed6544fbb235}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_ae8be5cb86cdef40fe5c2ed6544fbb235}} 
+\index{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}!create\+Dpi\+Process@{create\+Dpi\+Process}}
+\index{create\+Dpi\+Process@{create\+Dpi\+Process}!Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}}
+\subsubsection{\texorpdfstring{create\+Dpi\+Process()}{createDpiProcess()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager.\+create\+Dpi\+Process (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{files\+List,  }\item[{}]{raster\+Type,  }\item[{}]{min\+Out\+Value,  }\item[{}]{max\+Out\+Value,  }\item[{}]{out\+Dir,  }\item[{}]{percent,  }\item[{}]{epsg }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Creates the digital image process
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_ae8be5cb86cdef40fe5c2ed6544fbb235_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a28a26a3c90baa1c7416b92c2c34e44c7}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a28a26a3c90baa1c7416b92c2c34e44c7}} 
+\index{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}!create\+Inventory\+Process@{create\+Inventory\+Process}}
+\index{create\+Inventory\+Process@{create\+Inventory\+Process}!Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}}
+\subsubsection{\texorpdfstring{create\+Inventory\+Process()}{createInventoryProcess()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager.\+create\+Inventory\+Process (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{parent\+Folder,  }\item[{}]{output\+File,  }\item[{}]{make\+Copy,  }\item[{}]{destination\+Folder,  }\item[{}]{formats\+List,  }\item[{}]{is\+Whitelist,  }\item[{}]{is\+Only\+Geo }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Creates the inventory process
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a28a26a3c90baa1c7416b92c2c34e44c7_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a0fb7d4b7632e7b9f848f616f0ca0efbe}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a0fb7d4b7632e7b9f848f616f0ca0efbe}} 
+\index{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}!create\+Postgis\+Database\+Process@{create\+Postgis\+Database\+Process}}
+\index{create\+Postgis\+Database\+Process@{create\+Postgis\+Database\+Process}!Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}}
+\subsubsection{\texorpdfstring{create\+Postgis\+Database\+Process()}{createPostgisDatabaseProcess()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager.\+create\+Postgis\+Database\+Process (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{db\+Name,  }\item[{}]{abstract\+Db,  }\item[{}]{version,  }\item[{}]{epsg }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Create the postgis databsae process
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a0fb7d4b7632e7b9f848f616f0ca0efbe_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a3cb0f2196fab53adc17312b1eadd2386}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a3cb0f2196fab53adc17312b1eadd2386}} 
+\index{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}!find\+Process@{find\+Process}}
+\index{find\+Process@{find\+Process}!Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}}
+\subsubsection{\texorpdfstring{find\+Process()}{findProcess()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager.\+find\+Process (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{uuid }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Finds a process by its uuid
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a3cb0f2196fab53adc17312b1eadd2386_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_ab6a56eaab22e457bcb0eb8a9f70e3e05}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_ab6a56eaab22e457bcb0eb8a9f70e3e05}} 
+\index{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}!find\+Progress\+Bar@{find\+Progress\+Bar}}
+\index{find\+Progress\+Bar@{find\+Progress\+Bar}!Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}}
+\subsubsection{\texorpdfstring{find\+Progress\+Bar()}{findProgressBar()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager.\+find\+Progress\+Bar (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{uuid }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Gets a process progress bar by its uuid
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_ab6a56eaab22e457bcb0eb8a9f70e3e05_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a0c50cae9890b30ee3d01b34622ca0dbb}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a0c50cae9890b30ee3d01b34622ca0dbb}} 
+\index{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}!load\+Inventory\+File@{load\+Inventory\+File}}
+\index{load\+Inventory\+File@{load\+Inventory\+File}!Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}}
+\subsubsection{\texorpdfstring{load\+Inventory\+File()}{loadInventoryFile()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager.\+load\+Inventory\+File (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{output\+File,  }\item[{}]{is\+Only\+Geo }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Loads the inventory upon completion
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a0c50cae9890b30ee3d01b34622ca0dbb_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a314d0e639c22ed78d70c63a6740a5337}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a314d0e639c22ed78d70c63a6740a5337}} 
+\index{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}!prepare\+Process@{prepare\+Process}}
+\index{prepare\+Process@{prepare\+Process}!Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}}
+\subsubsection{\texorpdfstring{prepare\+Process()}{prepareProcess()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager.\+prepare\+Process (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{process,  }\item[{}]{message }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Prepares the process to be executed.
+Creates a message bar.
+Connects the destroyed progress bar signal to the process cancel method
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a314d0e639c22ed78d70c63a6740a5337_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a3054cb26b2103882257b1d2008bec546}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a3054cb26b2103882257b1d2008bec546}} 
+\index{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}!process\+Finished@{process\+Finished}}
+\index{process\+Finished@{process\+Finished}!Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}}
+\subsubsection{\texorpdfstring{process\+Finished()}{processFinished()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager.\+process\+Finished (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{feedback,  }\item[{}]{message,  }\item[{}]{uuid }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Finalizes the process
+feedback: feedback code
+message: feedback message
+uuid: process uuid
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a3054cb26b2103882257b1d2008bec546_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a3054cb26b2103882257b1d2008bec546_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a6b891be03fdd827eff9a157038560cd2}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a6b891be03fdd827eff9a157038560cd2}} 
+\index{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}!set\+Progress\+Range@{set\+Progress\+Range}}
+\index{set\+Progress\+Range@{set\+Progress\+Range}!Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}}
+\subsubsection{\texorpdfstring{set\+Progress\+Range()}{setProgressRange()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager.\+set\+Progress\+Range (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{maximum,  }\item[{}]{uuid }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Sets the progress range for the process
+maximum: progress range
+uuid: process uuid
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a6b891be03fdd827eff9a157038560cd2_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a6b891be03fdd827eff9a157038560cd2_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a9b8eea4c358a48a612ac8f2d285708b4}\label{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a9b8eea4c358a48a612ac8f2d285708b4}} 
+\index{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}!step\+Processed@{step\+Processed}}
+\index{step\+Processed@{step\+Processed}!Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager@{Dsg\+Tools\+::\+Processing\+Tools\+::process\+Manager\+::\+Process\+Manager}}
+\subsubsection{\texorpdfstring{step\+Processed()}{stepProcessed()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Processing\+Tools.\+process\+Manager.\+Process\+Manager.\+step\+Processed (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{uuid }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Updates the process progress bar
+uuid: process uuid
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a9b8eea4c358a48a612ac8f2d285708b4_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_processing_tools_1_1process_manager_1_1_process_manager_a9b8eea4c358a48a612ac8f2d285708b4_icgraph}
+\end{center}
+\end{figure}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+/\+Users/luiz/.\+qgis2/python/plugins/\+Dsg\+Tools/\+Processing\+Tools/process\+Manager.\+py\end{DoxyCompactItemize}

@@ -1,0 +1,4 @@
+<map id="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.createCentroidAuxStruct" name="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.createCentroidAuxStruct">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#ac253585db10658abbdb39adb0537d4d7" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.checkAndCreateCentroidAuxStruct" alt="" coords="305,5,618,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#ae61407d11e5b719bda0b1fbc8fc3a126" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.updateEarthCoverageDict" alt="" coords="332,68,592,107"/>
+</map>

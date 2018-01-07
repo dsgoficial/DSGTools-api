@@ -1,0 +1,6 @@
+var class_dsg_tools_1_1_factories_1_1_db_customization_factory_1_1new_domain_value_customization_1_1_new_domain_value_customization =
+[
+    [ "__init__", "class_dsg_tools_1_1_factories_1_1_db_customization_factory_1_1new_domain_value_customization_1_1_new_domain_value_customization.html#a11a636a7aed0bdadf8cedd670a32d40c", null ],
+    [ "buildSql", "class_dsg_tools_1_1_factories_1_1_db_customization_factory_1_1new_domain_value_customization_1_1_new_domain_value_customization.html#af79a4036bec44749937d6a2e22909f9e", null ],
+    [ "buildUndoSql", "class_dsg_tools_1_1_factories_1_1_db_customization_factory_1_1new_domain_value_customization_1_1_new_domain_value_customization.html#a690871b5af633c2074c050ba747d240b", null ]
+];

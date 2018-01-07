@@ -1,0 +1,6 @@
+<map id="DsgTools.ProductionTools.MinimumAreaTool.shapeTool.ShapeTool.reset" name="DsgTools.ProductionTools.MinimumAreaTool.shapeTool.ShapeTool.reset">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_production_tools_1_1_minimum_area_tool_1_1shape_tool_1_1_shape_tool.html#a0c6640cab6dc85dd2b103b6c69b4d8bd" title="DsgTools.ProductionTools.\lMinimumAreaTool.shapeTool.Shape\lTool.__init__" alt="" coords="288,5,523,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_production_tools_1_1_minimum_area_tool_1_1shape_tool_1_1_shape_tool.html#a1f5cb36960ca5dfe9b2fbf08763d80f0" title="DsgTools.ProductionTools.\lMinimumAreaTool.shapeTool.Shape\lTool.showCircle" alt="" coords="288,81,523,133"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_production_tools_1_1_minimum_area_tool_1_1shape_tool_1_1_shape_tool.html#a60b9a4ad2d682db2e8ab8f10006eb12e" title="DsgTools.ProductionTools.\lMinimumAreaTool.shapeTool.Shape\lTool.showRect" alt="" coords="288,157,523,209"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_production_tools_1_1_minimum_area_tool_1_1shape_tool_1_1_shape_tool.html#ac79a4b1b6339d1524d9bd330e0dab860" title="DsgTools.ProductionTools.\lMinimumAreaTool.shapeTool.Shape\lTool.canvasMoveEvent" alt="" coords="571,120,806,172"/>
+</map>

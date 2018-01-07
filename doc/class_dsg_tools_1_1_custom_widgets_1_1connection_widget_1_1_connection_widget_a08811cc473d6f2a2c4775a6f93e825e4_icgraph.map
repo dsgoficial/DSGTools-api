@@ -1,0 +1,6 @@
+<map id="DsgTools.CustomWidgets.connectionWidget.ConnectionWidget.clearAll" name="DsgTools.CustomWidgets.connectionWidget.ConnectionWidget.clearAll">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a6982904c57913be2d825dcc83ea22349" title="DsgTools.CustomWidgets.connection\lWidget.ConnectionWidget.__init__" alt="" coords="300,5,542,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1domain_setter_1_1_domain_setter.html#a337fd2044f8173c552c7a557c5c44791" title="DsgTools.CustomWidgets.Custom\lDbManagementWidgets.domainSetter.\lDomainSetter.on_filterLineEdit\l_textChanged" alt="" coords="296,68,546,133"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_server_tools_1_1explore_db_1_1_explore_db.html#a8093d338ae06bf10048cf67eb963190a" title="DsgTools.ServerTools.explore\lDb.ExploreDb.__init__" alt="" coords="322,157,520,196"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_server_tools_1_1explore_db_1_1_explore_db.html#af889de9b8f68501bb60a088fe1523d5a" title="DsgTools.ServerTools.explore\lDb.ExploreDb.on_dropDatabasePush\lButton_clicked" alt="" coords="298,220,543,272"/>
+</map>

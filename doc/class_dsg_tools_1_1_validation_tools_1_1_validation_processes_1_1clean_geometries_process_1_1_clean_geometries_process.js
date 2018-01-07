@@ -1,0 +1,9 @@
+var class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1clean_geometries_process_1_1_clean_geometries_process =
+[
+    [ "__init__", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1clean_geometries_process_1_1_clean_geometries_process.html#a1d98e474a20bb965b5c47466a887cb8f", null ],
+    [ "execute", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1clean_geometries_process_1_1_clean_geometries_process.html#af892430972d064e6793e02a32c82182e", null ],
+    [ "runProcessinAlg", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1clean_geometries_process_1_1_clean_geometries_process.html#aa3aff41e9fe84bf3c3f1fa05691988d0", null ],
+    [ "classesWithElemDict", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1clean_geometries_process_1_1_clean_geometries_process.html#a1df149f8eb1de40f3d15eb7e0458ec3b", null ],
+    [ "parameters", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1clean_geometries_process_1_1_clean_geometries_process.html#a5efbcbeb3eb436178a51b6011f068024", null ],
+    [ "processAlias", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1clean_geometries_process_1_1_clean_geometries_process.html#aa8fdf0db51118fc80ebc7faaffa88403", null ]
+];

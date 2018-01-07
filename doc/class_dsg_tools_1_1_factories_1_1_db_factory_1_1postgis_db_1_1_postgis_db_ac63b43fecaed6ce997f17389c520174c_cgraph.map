@@ -1,0 +1,4 @@
+<map id="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.getURI" name="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.getURI">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a6fda820eb975b10f79452e95fe3225cc" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getTableSchema" alt="" coords="298,5,543,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#ac58fc556c0253143f06ea17f54a607db" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getPrimaryKeyColumn" alt="" coords="298,68,543,107"/>
+</map>

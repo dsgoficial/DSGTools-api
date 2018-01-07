@@ -1,0 +1,4 @@
+<map id="DsgTools.Factories.DbFactory.abstractDb.AbstractDb" name="DsgTools.Factories.DbFactory.abstractDb.AbstractDb">
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb" alt="" coords="427,5,672,44"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1spatialite_db_1_1_spatialite_db.html" title="DsgTools.Factories.DbFactory.spatialite\lDb.SpatialiteDb" alt="" coords="422,68,677,107"/>
+</map>

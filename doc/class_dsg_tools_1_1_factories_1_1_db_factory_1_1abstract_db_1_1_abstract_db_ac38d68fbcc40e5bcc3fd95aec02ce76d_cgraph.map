@@ -1,0 +1,4 @@
+<map id="DsgTools.Factories.DbFactory.abstractDb.AbstractDb.buildOgrDatabase" name="DsgTools.Factories.DbFactory.abstractDb.AbstractDb.buildOgrDatabase">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a41684c4b7f79ba2b21e4bea0c18d7804" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.makeOgrConn" alt="" coords="309,5,553,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1spatialite_db_1_1_spatialite_db.html#a90ac5680b7a302f0e6d99f21f7c48b40" title="DsgTools.Factories.DbFactory.spatialite\lDb.SpatialiteDb.makeOgrConn" alt="" coords="303,68,559,107"/>
+</map>

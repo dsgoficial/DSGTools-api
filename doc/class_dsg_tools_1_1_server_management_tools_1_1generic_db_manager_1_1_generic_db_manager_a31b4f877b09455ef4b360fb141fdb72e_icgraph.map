@@ -1,0 +1,5 @@
+<map id="DsgTools.ServerManagementTools.genericDbManager.GenericDbManager.getSetting" name="DsgTools.ServerManagementTools.genericDbManager.GenericDbManager.getSetting">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_server_management_tools_1_1generic_db_manager_1_1_generic_db_manager.html#a7f0414ff8fbbea9649608f6093f8fe5a" title="DsgTools.ServerManagement\lTools.genericDbManager.Generic\lDbManager.exportSetting" alt="" coords="284,5,503,57"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager.html#a9c74d6bdc2984793dfc39d964893819a" title="DsgTools.ServerManagement\lTools.permissionManager.Permission\lManager.grantPermission" alt="" coords="273,81,515,133"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_server_management_tools_1_1generic_db_manager_1_1_generic_db_manager.html#a819e748ac71d827bb50ce8cebb322187" title="DsgTools.ServerManagement\lTools.genericDbManager.Generic\lDbManager.batchExportSettings" alt="" coords="563,5,782,57"/>
+</map>

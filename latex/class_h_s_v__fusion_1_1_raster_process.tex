@@ -1,0 +1,257 @@
+\hypertarget{class_h_s_v__fusion_1_1_raster_process}{}\section{H\+S\+V\+\_\+fusion.\+Raster\+Process Class Reference}
+\label{class_h_s_v__fusion_1_1_raster_process}\index{H\+S\+V\+\_\+fusion.\+Raster\+Process@{H\+S\+V\+\_\+fusion.\+Raster\+Process}}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \mbox{\hyperlink{class_h_s_v__fusion_1_1_raster_process_a660f4894a7d050e58540babd60ec4269}{\+\_\+\+\_\+init\+\_\+\+\_\+}} (self)
+\item 
+def \mbox{\hyperlink{class_h_s_v__fusion_1_1_raster_process_ab7fc3ba16ff8bedfd26a45811efb93ec}{open\+Raster}} (self, file)
+\item 
+def \mbox{\hyperlink{class_h_s_v__fusion_1_1_raster_process_a55aa52ef0965575a867ff2b994d0855a}{get\+Band\+As\+Array}} (self, raster, bandnumber)
+\item 
+def \mbox{\hyperlink{class_h_s_v__fusion_1_1_raster_process_a357a8425c826c106f8f07106cf3178de}{get\+Georeference\+Info}} (self, raster)
+\item 
+def \mbox{\hyperlink{class_h_s_v__fusion_1_1_raster_process_a4d3dab8ca726b36c6ed38e6cb89a9116}{get\+C\+RS}} (self, raster)
+\item 
+def \mbox{\hyperlink{class_h_s_v__fusion_1_1_raster_process_a50e79f6868107a0c9234edfe7800443e}{create\+Raster\+From\+R\+G\+Bbands}} (self, srcraster, red, green, blue, destfile)
+\item 
+def \mbox{\hyperlink{class_h_s_v__fusion_1_1_raster_process_a04ccd0a5ef170740489a96842018ec3c}{create\+Raster}} (self, srcraster, destfile, pixel\+Type)
+\item 
+def \mbox{\hyperlink{class_h_s_v__fusion_1_1_raster_process_aca76f020e0abc7e7985a82381f989d9a}{pansharpen\+Image}} (self, rgbfile, panfile, destfile)
+\item 
+def \mbox{\hyperlink{class_h_s_v__fusion_1_1_raster_process_ab73a0820df58431093d3d6697c36beec}{normalize}} (self, arr)
+\item 
+def \mbox{\hyperlink{class_h_s_v__fusion_1_1_raster_process_a1c123d5883dc2c2783391cdb7ebfe738}{read\+Block}} (self, band, sizeX, sizeY=1, offsetY=0, pixel\+Type=gdal.\+G\+D\+T\+\_\+\+Byte)
+\item 
+def \mbox{\hyperlink{class_h_s_v__fusion_1_1_raster_process_aaa5f6ae93ead92ab03eefd80e1318296}{get\+Numpy\+Type}} (self, pixel\+Type=gdal.\+G\+D\+T\+\_\+\+Byte)
+\item 
+def \mbox{\hyperlink{class_h_s_v__fusion_1_1_raster_process_a602e8caa6f0961893dafcb169f191373}{write\+Block}} (self, band, block, sizeX, sizeY=1, offsetY=0, pixel\+Type=gdal.\+G\+D\+T\+\_\+\+Byte)
+\end{DoxyCompactItemize}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_h_s_v__fusion_1_1_raster_process_a660f4894a7d050e58540babd60ec4269}\label{class_h_s_v__fusion_1_1_raster_process_a660f4894a7d050e58540babd60ec4269}} 
+\index{H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}!\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}}
+\index{\+\_\+\+\_\+init\+\_\+\+\_\+@{\+\_\+\+\_\+init\+\_\+\+\_\+}!H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{\+\_\+\+\_\+init\+\_\+\+\_\+()}{\_\_init\_\_()}}
+{\footnotesize\ttfamily def H\+S\+V\+\_\+fusion.\+Raster\+Process.\+\_\+\+\_\+init\+\_\+\+\_\+ (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Constructor
+\end{DoxyVerb}
+ 
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_h_s_v__fusion_1_1_raster_process_a04ccd0a5ef170740489a96842018ec3c}\label{class_h_s_v__fusion_1_1_raster_process_a04ccd0a5ef170740489a96842018ec3c}} 
+\index{H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}!create\+Raster@{create\+Raster}}
+\index{create\+Raster@{create\+Raster}!H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{create\+Raster()}{createRaster()}}
+{\footnotesize\ttfamily def H\+S\+V\+\_\+fusion.\+Raster\+Process.\+create\+Raster (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{srcraster,  }\item[{}]{destfile,  }\item[{}]{pixel\+Type }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Creates a raster file
+srcraster: source raster
+destfile: destination file
+pixelType: raster pixel type (e.g byte)
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_h_s_v__fusion_1_1_raster_process_a04ccd0a5ef170740489a96842018ec3c_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_h_s_v__fusion_1_1_raster_process_a04ccd0a5ef170740489a96842018ec3c_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_h_s_v__fusion_1_1_raster_process_a50e79f6868107a0c9234edfe7800443e}\label{class_h_s_v__fusion_1_1_raster_process_a50e79f6868107a0c9234edfe7800443e}} 
+\index{H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}!create\+Raster\+From\+R\+G\+Bbands@{create\+Raster\+From\+R\+G\+Bbands}}
+\index{create\+Raster\+From\+R\+G\+Bbands@{create\+Raster\+From\+R\+G\+Bbands}!H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{create\+Raster\+From\+R\+G\+Bbands()}{createRasterFromRGBbands()}}
+{\footnotesize\ttfamily def H\+S\+V\+\_\+fusion.\+Raster\+Process.\+create\+Raster\+From\+R\+G\+Bbands (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{srcraster,  }\item[{}]{red,  }\item[{}]{green,  }\item[{}]{blue,  }\item[{}]{destfile }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Creates a raster file from RGB bands
+srcraster: source raster file
+red: red band
+green: green band
+blue: blue band
+destfile: destination file
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_h_s_v__fusion_1_1_raster_process_a50e79f6868107a0c9234edfe7800443e_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_h_s_v__fusion_1_1_raster_process_a55aa52ef0965575a867ff2b994d0855a}\label{class_h_s_v__fusion_1_1_raster_process_a55aa52ef0965575a867ff2b994d0855a}} 
+\index{H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}!get\+Band\+As\+Array@{get\+Band\+As\+Array}}
+\index{get\+Band\+As\+Array@{get\+Band\+As\+Array}!H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{get\+Band\+As\+Array()}{getBandAsArray()}}
+{\footnotesize\ttfamily def H\+S\+V\+\_\+fusion.\+Raster\+Process.\+get\+Band\+As\+Array (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{raster,  }\item[{}]{bandnumber }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Gets a raster band as array
+raster: gdal raster file
+bandnumber: band number
+\end{DoxyVerb}
+ \mbox{\Hypertarget{class_h_s_v__fusion_1_1_raster_process_a4d3dab8ca726b36c6ed38e6cb89a9116}\label{class_h_s_v__fusion_1_1_raster_process_a4d3dab8ca726b36c6ed38e6cb89a9116}} 
+\index{H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}!get\+C\+RS@{get\+C\+RS}}
+\index{get\+C\+RS@{get\+C\+RS}!H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{get\+C\+R\+S()}{getCRS()}}
+{\footnotesize\ttfamily def H\+S\+V\+\_\+fusion.\+Raster\+Process.\+get\+C\+RS (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{raster }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Gets raster file CRS
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_h_s_v__fusion_1_1_raster_process_a4d3dab8ca726b36c6ed38e6cb89a9116_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_h_s_v__fusion_1_1_raster_process_a357a8425c826c106f8f07106cf3178de}\label{class_h_s_v__fusion_1_1_raster_process_a357a8425c826c106f8f07106cf3178de}} 
+\index{H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}!get\+Georeference\+Info@{get\+Georeference\+Info}}
+\index{get\+Georeference\+Info@{get\+Georeference\+Info}!H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{get\+Georeference\+Info()}{getGeoreferenceInfo()}}
+{\footnotesize\ttfamily def H\+S\+V\+\_\+fusion.\+Raster\+Process.\+get\+Georeference\+Info (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{raster }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Gets georeference information
+raster: raster file 
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_h_s_v__fusion_1_1_raster_process_a357a8425c826c106f8f07106cf3178de_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_h_s_v__fusion_1_1_raster_process_aaa5f6ae93ead92ab03eefd80e1318296}\label{class_h_s_v__fusion_1_1_raster_process_aaa5f6ae93ead92ab03eefd80e1318296}} 
+\index{H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}!get\+Numpy\+Type@{get\+Numpy\+Type}}
+\index{get\+Numpy\+Type@{get\+Numpy\+Type}!H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{get\+Numpy\+Type()}{getNumpyType()}}
+{\footnotesize\ttfamily def H\+S\+V\+\_\+fusion.\+Raster\+Process.\+get\+Numpy\+Type (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{pixel\+Type = {\ttfamily gdal.GDT\+\_\+Byte} }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Translates the gdal raster type to numpy type
+pixelType: gdal raster type
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_h_s_v__fusion_1_1_raster_process_aaa5f6ae93ead92ab03eefd80e1318296_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_h_s_v__fusion_1_1_raster_process_ab73a0820df58431093d3d6697c36beec}\label{class_h_s_v__fusion_1_1_raster_process_ab73a0820df58431093d3d6697c36beec}} 
+\index{H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}!normalize@{normalize}}
+\index{normalize@{normalize}!H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{normalize()}{normalize()}}
+{\footnotesize\ttfamily def H\+S\+V\+\_\+fusion.\+Raster\+Process.\+normalize (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{arr }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Function to normalize an input array to 0-1
+\end{DoxyVerb}
+ \mbox{\Hypertarget{class_h_s_v__fusion_1_1_raster_process_ab7fc3ba16ff8bedfd26a45811efb93ec}\label{class_h_s_v__fusion_1_1_raster_process_ab7fc3ba16ff8bedfd26a45811efb93ec}} 
+\index{H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}!open\+Raster@{open\+Raster}}
+\index{open\+Raster@{open\+Raster}!H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{open\+Raster()}{openRaster()}}
+{\footnotesize\ttfamily def H\+S\+V\+\_\+fusion.\+Raster\+Process.\+open\+Raster (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{file }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Opens raster file
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_h_s_v__fusion_1_1_raster_process_ab7fc3ba16ff8bedfd26a45811efb93ec_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_h_s_v__fusion_1_1_raster_process_aca76f020e0abc7e7985a82381f989d9a}\label{class_h_s_v__fusion_1_1_raster_process_aca76f020e0abc7e7985a82381f989d9a}} 
+\index{H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}!pansharpen\+Image@{pansharpen\+Image}}
+\index{pansharpen\+Image@{pansharpen\+Image}!H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{pansharpen\+Image()}{pansharpenImage()}}
+{\footnotesize\ttfamily def H\+S\+V\+\_\+fusion.\+Raster\+Process.\+pansharpen\+Image (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{rgbfile,  }\item[{}]{panfile,  }\item[{}]{destfile }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Performs a HSV fusion
+rgbfile: original RGB raster file
+panfile: original PAN raster file
+destfile: destination file
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_h_s_v__fusion_1_1_raster_process_aca76f020e0abc7e7985a82381f989d9a_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_h_s_v__fusion_1_1_raster_process_a1c123d5883dc2c2783391cdb7ebfe738}\label{class_h_s_v__fusion_1_1_raster_process_a1c123d5883dc2c2783391cdb7ebfe738}} 
+\index{H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}!read\+Block@{read\+Block}}
+\index{read\+Block@{read\+Block}!H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{read\+Block()}{readBlock()}}
+{\footnotesize\ttfamily def H\+S\+V\+\_\+fusion.\+Raster\+Process.\+read\+Block (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{band,  }\item[{}]{sizeX,  }\item[{}]{sizeY = {\ttfamily 1},  }\item[{}]{offsetY = {\ttfamily 0},  }\item[{}]{pixel\+Type = {\ttfamily gdal.GDT\+\_\+Byte} }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Reads image block
+band: band used
+sizeX: x block size
+sizeY: y block size
+offsetY: Y offset
+pixelType: pixel type
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_h_s_v__fusion_1_1_raster_process_a1c123d5883dc2c2783391cdb7ebfe738_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_h_s_v__fusion_1_1_raster_process_a1c123d5883dc2c2783391cdb7ebfe738_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_h_s_v__fusion_1_1_raster_process_a602e8caa6f0961893dafcb169f191373}\label{class_h_s_v__fusion_1_1_raster_process_a602e8caa6f0961893dafcb169f191373}} 
+\index{H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}!write\+Block@{write\+Block}}
+\index{write\+Block@{write\+Block}!H\+S\+V\+\_\+fusion\+::\+Raster\+Process@{H\+S\+V\+\_\+fusion\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{write\+Block()}{writeBlock()}}
+{\footnotesize\ttfamily def H\+S\+V\+\_\+fusion.\+Raster\+Process.\+write\+Block (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{band,  }\item[{}]{block,  }\item[{}]{sizeX,  }\item[{}]{sizeY = {\ttfamily 1},  }\item[{}]{offsetY = {\ttfamily 0},  }\item[{}]{pixel\+Type = {\ttfamily gdal.GDT\+\_\+Byte} }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Writes image block
+band: band used
+sizeX: x block size
+sizeY: y block size
+offsetY: Y offset
+pixelType: pixel type
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_h_s_v__fusion_1_1_raster_process_a602e8caa6f0961893dafcb169f191373_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_h_s_v__fusion_1_1_raster_process_a602e8caa6f0961893dafcb169f191373_icgraph}
+\end{center}
+\end{figure}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+/\+Users/luiz/.\+qgis2/python/plugins/\+Dsg\+Tools/\+Q\+G\+I\+S\+\_\+\+Scripts/H\+S\+V\+\_\+fusion.\+py\end{DoxyCompactItemize}

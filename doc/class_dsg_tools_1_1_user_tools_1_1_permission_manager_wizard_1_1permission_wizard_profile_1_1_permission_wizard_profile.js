@@ -1,0 +1,6 @@
+var class_dsg_tools_1_1_user_tools_1_1_permission_manager_wizard_1_1permission_wizard_profile_1_1_permission_wizard_profile =
+[
+    [ "__init__", "class_dsg_tools_1_1_user_tools_1_1_permission_manager_wizard_1_1permission_wizard_profile_1_1_permission_wizard_profile.html#a49bbc6af0310098a45f4936ddafbcba7", null ],
+    [ "getModelProfiles", "class_dsg_tools_1_1_user_tools_1_1_permission_manager_wizard_1_1permission_wizard_profile_1_1_permission_wizard_profile.html#a088d3aa979d1849950d1f09d34ef334d", null ],
+    [ "validatePage", "class_dsg_tools_1_1_user_tools_1_1_permission_manager_wizard_1_1permission_wizard_profile_1_1_permission_wizard_profile.html#af6b666c9887bb74ed3d7776ecd9aaf59", null ]
+];

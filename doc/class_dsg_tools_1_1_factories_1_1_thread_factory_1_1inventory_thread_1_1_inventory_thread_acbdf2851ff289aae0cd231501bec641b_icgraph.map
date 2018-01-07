@@ -1,0 +1,6 @@
+<map id="DsgTools.Factories.ThreadFactory.inventoryThread.InventoryThread.copyOGRDataSource" name="DsgTools.Factories.ThreadFactory.inventoryThread.InventoryThread.copyOGRDataSource">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_thread_factory_1_1inventory_thread_1_1_inventory_thread.html#a1dd2d109fee4f8015236e57b54caea5a" title="DsgTools.Factories.Thread\lFactory.inventoryThread.Inventory\lThread.copy" alt="" coords="277,5,500,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_thread_factory_1_1inventory_thread_1_1_inventory_thread.html#a3a79e7cbac8812c3ee82fc4cdf405149" title="DsgTools.Factories.Thread\lFactory.inventoryThread.Inventory\lThread.makeInventory" alt="" coords="548,5,772,57"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_factories_1_1_thread_factory_1_1inventory_thread_1_1_inventory_thread.html#aa1de63f12022456d0adfcad39c8e7c12" title="DsgTools.Factories.Thread\lFactory.inventoryThread.Inventory\lThread.run" alt="" coords="820,5,1043,57"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_production_tools_1_1_minimum_area_tool_1_1minimum_area_tool_1_1_minimum_area_tool.html#af30e08293f857068625c2c67fa63cbcb" title="DsgTools.ProductionTools.\lMinimumAreaTool.minimumAreaTool.\lMinimumAreaTool.on_drawShape_clicked" alt="" coords="1091,5,1361,57"/>
+</map>

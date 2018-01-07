@@ -1,0 +1,5 @@
+<map id="DsgTools.ImageTools.raster_processing.RasterProcess.createRasterFromRGBbands" name="DsgTools.ImageTools.raster_processing.RasterProcess.createRasterFromRGBbands">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#ae0baa21e8ad949a1b32a7b5009cdda5b" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.create\lRaster" alt="" coords="278,31,504,83"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#a27bbae0bc866c3f178be14c3f0738d6c" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.getGeoreferenceInfo" alt="" coords="552,5,862,44"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#aef5604afa2c25b7eef155b0946c44792" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.getCRS" alt="" coords="589,68,824,107"/>
+</map>

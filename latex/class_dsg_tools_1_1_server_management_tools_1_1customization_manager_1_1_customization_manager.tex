@@ -1,0 +1,132 @@
+\hypertarget{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager}{}\section{Dsg\+Tools.\+Server\+Management\+Tools.\+customization\+Manager.\+Customization\+Manager Class Reference}
+\label{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager}\index{Dsg\+Tools.\+Server\+Management\+Tools.\+customization\+Manager.\+Customization\+Manager@{Dsg\+Tools.\+Server\+Management\+Tools.\+customization\+Manager.\+Customization\+Manager}}
+
+
+Inheritance diagram for Dsg\+Tools.\+Server\+Management\+Tools.\+customization\+Manager.\+Customization\+Manager\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=288pt]{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Dsg\+Tools.\+Server\+Management\+Tools.\+customization\+Manager.\+Customization\+Manager\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=288pt]{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_a869e5eb38e2d838640c119e438def47a}\label{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_a869e5eb38e2d838640c119e438def47a}} 
+def {\bfseries \+\_\+\+\_\+init\+\_\+\+\_\+} (self, server\+Abstract\+Db, db\+Dict, edgv\+Version, parent\+Widget=None)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_ae26c4f98ac0a48bd089d4bab38f8fbcc}{install\+Customization}} (self, customization\+Name)
+\item 
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_ace58e79793e975d5ceeff21007feac7f}\label{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_ace58e79793e975d5ceeff21007feac7f}} 
+def {\bfseries remove\+Customization} (self, customization\+Name)
+\item 
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_ac82233a50914cd1adf2194c1d5408ffc}\label{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_ac82233a50914cd1adf2194c1d5408ffc}} 
+def {\bfseries update\+Customization} (self, customization\+Name)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_ac70eb9c7eb2d708ed0cdbd17c83f4b6d}{validate\+Json\+Profile}} (self, input\+Json\+Dict)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_a1d2a8164b801ff030d65cb8e02786e9c}{get\+Property\+Perspective\+Dict}} (self, view\+Type)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_a6d267613675bed63c0e45cba18f277c1}{materialize\+Into\+Database}} (self, abstract\+Db, property\+Dict)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_a108ee02a6c33d1fd38f72eb3c9a4780f}{undo\+Materialization\+From\+Database}} (self, abstract\+Db, config\+Name, setting\+Type, edgv\+Version)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_ab5dbdbb7abfe5e2eaed06871aac12ca4}{has\+Structural\+Changes}} (self, db\+Name\+List)
+\end{DoxyCompactItemize}
+\subsection*{Additional Inherited Members}
+
+
+\subsection{Detailed Description}
+\begin{DoxyVerb}This class manages the customizations on dsgtools databases.
+\end{DoxyVerb}
+ 
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_a1d2a8164b801ff030d65cb8e02786e9c}\label{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_a1d2a8164b801ff030d65cb8e02786e9c}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager}!get\+Property\+Perspective\+Dict@{get\+Property\+Perspective\+Dict}}
+\index{get\+Property\+Perspective\+Dict@{get\+Property\+Perspective\+Dict}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager}}
+\subsubsection{\texorpdfstring{get\+Property\+Perspective\+Dict()}{getPropertyPerspectiveDict()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+customization\+Manager.\+Customization\+Manager.\+get\+Property\+Perspective\+Dict (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{view\+Type }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Gets a dict in the format:
+if viewType == 'customization': {customizationName: ['-list of databases with customization']}
+if viewType == 'database': {databaseName: ['-list of customizations with customization']}
+\end{DoxyVerb}
+ \mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_ab5dbdbb7abfe5e2eaed06871aac12ca4}\label{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_ab5dbdbb7abfe5e2eaed06871aac12ca4}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager}!has\+Structural\+Changes@{has\+Structural\+Changes}}
+\index{has\+Structural\+Changes@{has\+Structural\+Changes}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager}}
+\subsubsection{\texorpdfstring{has\+Structural\+Changes()}{hasStructuralChanges()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+customization\+Manager.\+Customization\+Manager.\+has\+Structural\+Changes (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{db\+Name\+List }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Method that is reimplemented in each child
+\end{DoxyVerb}
+ \mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_ae26c4f98ac0a48bd089d4bab38f8fbcc}\label{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_ae26c4f98ac0a48bd089d4bab38f8fbcc}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager}!install\+Customization@{install\+Customization}}
+\index{install\+Customization@{install\+Customization}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager}}
+\subsubsection{\texorpdfstring{install\+Customization()}{installCustomization()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+customization\+Manager.\+Customization\+Manager.\+install\+Customization (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{customization\+Name }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}1. Get customization from dsgtools_admindb;
+2. Get sql from dbCustomizer;
+3. For each db try to create custom;
+4. If custom applied, save it on customization table on db and on dsgtools_admindb;
+\end{DoxyVerb}
+ \mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_a6d267613675bed63c0e45cba18f277c1}\label{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_a6d267613675bed63c0e45cba18f277c1}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager}!materialize\+Into\+Database@{materialize\+Into\+Database}}
+\index{materialize\+Into\+Database@{materialize\+Into\+Database}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager}}
+\subsubsection{\texorpdfstring{materialize\+Into\+Database()}{materializeIntoDatabase()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+customization\+Manager.\+Customization\+Manager.\+materialize\+Into\+Database (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{abstract\+Db,  }\item[{}]{property\+Dict }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Method that is reimplemented in each child when installing a property involves changing any sort of database structure
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_a6d267613675bed63c0e45cba18f277c1_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_a108ee02a6c33d1fd38f72eb3c9a4780f}\label{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_a108ee02a6c33d1fd38f72eb3c9a4780f}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager}!undo\+Materialization\+From\+Database@{undo\+Materialization\+From\+Database}}
+\index{undo\+Materialization\+From\+Database@{undo\+Materialization\+From\+Database}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager}}
+\subsubsection{\texorpdfstring{undo\+Materialization\+From\+Database()}{undoMaterializationFromDatabase()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+customization\+Manager.\+Customization\+Manager.\+undo\+Materialization\+From\+Database (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{abstract\+Db,  }\item[{}]{config\+Name,  }\item[{}]{setting\+Type,  }\item[{}]{edgv\+Version }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Method that is reimplemented in each child when uninstalling a property involves changing any sort of database structure
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_a108ee02a6c33d1fd38f72eb3c9a4780f_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_ac70eb9c7eb2d708ed0cdbd17c83f4b6d}\label{class_dsg_tools_1_1_server_management_tools_1_1customization_manager_1_1_customization_manager_ac70eb9c7eb2d708ed0cdbd17c83f4b6d}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager}!validate\+Json\+Profile@{validate\+Json\+Profile}}
+\index{validate\+Json\+Profile@{validate\+Json\+Profile}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::customization\+Manager\+::\+Customization\+Manager}}
+\subsubsection{\texorpdfstring{validate\+Json\+Profile()}{validateJsonProfile()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+customization\+Manager.\+Customization\+Manager.\+validate\+Json\+Profile (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{input\+Json\+Dict }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}1. Validates each key and value in inputJsonDict;
+2. If input is ok, returns True;
+3. If one piece of json is not valid, returns False.
+This validator does not validate the name of classes or names of categories. It only checks the format of dsgtools json profile.
+\end{DoxyVerb}
+ 
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+/\+Users/luiz/.\+qgis2/python/plugins/\+Dsg\+Tools/\+Server\+Management\+Tools/customization\+Manager.\+py\end{DoxyCompactItemize}

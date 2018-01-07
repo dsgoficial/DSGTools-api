@@ -1,0 +1,4 @@
+<map id="DsgTools.Factories.ThreadFactory.inventoryThread.InventoryThread.copy" name="DsgTools.Factories.ThreadFactory.inventoryThread.InventoryThread.copy">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_thread_factory_1_1inventory_thread_1_1_inventory_thread.html#acbdf2851ff289aae0cd231501bec641b" title="DsgTools.Factories.Thread\lFactory.inventoryThread.Inventory\lThread.copyOGRDataSource" alt="" coords="277,5,500,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_thread_factory_1_1inventory_thread_1_1_inventory_thread.html#a6e4afaa58fc22a337235d79b6aa06f6d" title="DsgTools.Factories.Thread\lFactory.inventoryThread.Inventory\lThread.copyGDALDataSource" alt="" coords="277,81,500,133"/>
+</map>

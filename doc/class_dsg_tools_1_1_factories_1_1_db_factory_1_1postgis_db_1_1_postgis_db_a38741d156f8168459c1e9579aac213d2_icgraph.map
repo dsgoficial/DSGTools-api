@@ -1,0 +1,4 @@
+<map id="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.dropCentroids" name="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.dropCentroids">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#ae61407d11e5b719bda0b1fbc8fc3a126" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.updateEarthCoverageDict" alt="" coords="298,5,558,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a6f43ff84be219d8dc9061838aeb436d2" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.rollbackEarthCoverage" alt="" coords="306,68,551,107"/>
+</map>

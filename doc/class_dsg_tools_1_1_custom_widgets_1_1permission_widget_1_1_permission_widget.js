@@ -1,0 +1,28 @@
+var class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget =
+[
+    [ "__init__", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a7e5dcd7d914261c3aecf7e3969b42796", null ],
+    [ "createDbPerspectiveContextMenu", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a073c365149b91301469cc5f25a0e87c7", null ],
+    [ "createItem", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a48ccc57d9eb999c49cf9a1926f6d92af", null ],
+    [ "createMenuAssigned", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a7394c765970d6044a57778f790a4fe5e", null ],
+    [ "createUserPerspectiveContextMenu", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a13fa907c5db2ea631ed6fbed93df77a5", null ],
+    [ "getViewType", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a85391a7980379ef3015bb23c1f058d15", null ],
+    [ "managePermissionsOnDb", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a83c1bb89e824e3096c64e747afe6330b", null ],
+    [ "manageUserPermissions", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#ac3f162f5d95120345b1b57667e115b77", null ],
+    [ "on_batchExportPushButton_clicked", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a4654aca8275cc052fc591135b44eb820", null ],
+    [ "on_batchImportPushButton_clicked", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a9043344fa71a02d6cc60c2e92746bcf8", null ],
+    [ "on_exportPushButton_clicked", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a919c626f1b5ebd91bc7e1d2cdce7ed27", null ],
+    [ "on_importPushButton_clicked", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a9d7ce920c97f845c039537606763f1b9", null ],
+    [ "on_manageProfilesPushButton_clicked", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a1d578f5370a3a48570a63144baba0f22", null ],
+    [ "on_manageUsersPushButton_clicked", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a3c30e035632ff02d5905f44e42db5e58", null ],
+    [ "populateWithDatabasePerspective", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#ad6a72279e96a2bc16b9a7e8307f71f67", null ],
+    [ "populateWithUserPerspective", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a3a1a3288ba1e1ad4939b55b44a1fcb60", null ],
+    [ "refresh", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a34802d043d5d68476477f593e0e0c4b0", null ],
+    [ "revokeAll", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a8e0fb21f8eaa23493f98467c2f2c3328", null ],
+    [ "revokeAllDbs", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a11b3f67fbfac4616309e0fb704169c7d", null ],
+    [ "revokeSelectedPermission", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#aad86e5f21732d5aa15e9e81fceed53d6", null ],
+    [ "revokeSelectedUser", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a673e4377f4e76eaca3cce3889bb1a916", null ],
+    [ "setParameters", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#abfe687e603de9f7d4833704c541e80b3", null ],
+    [ "dbDict", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#ad64460ea6c0d20e52157d0a44bf14dbf", null ],
+    [ "permissionManager", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#abd023e6ea9fdd299836d8cca07236d0e", null ],
+    [ "serverAbstractDb", "class_dsg_tools_1_1_custom_widgets_1_1permission_widget_1_1_permission_widget.html#a2274378f2a203aa29c72ed3924db56fc", null ]
+];

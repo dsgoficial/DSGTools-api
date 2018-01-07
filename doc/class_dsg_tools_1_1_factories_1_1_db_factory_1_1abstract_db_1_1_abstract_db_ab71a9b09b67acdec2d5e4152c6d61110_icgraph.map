@@ -1,0 +1,4 @@
+<map id="DsgTools.Factories.DbFactory.abstractDb.AbstractDb.makeValidationSummary" name="DsgTools.Factories.DbFactory.abstractDb.AbstractDb.makeValidationSummary">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1spatialite_db_1_1_spatialite_db.html#a06dd9cc920f62cd988d92bcedabf5a88" title="DsgTools.Factories.DbFactory.spatialite\lDb.SpatialiteDb.convertToPostgis" alt="" coords="312,5,568,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#af2cfa7cec72d89c8bff648a1ef6fd895" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.convertDatabase" alt="" coords="616,5,866,44"/>
+</map>

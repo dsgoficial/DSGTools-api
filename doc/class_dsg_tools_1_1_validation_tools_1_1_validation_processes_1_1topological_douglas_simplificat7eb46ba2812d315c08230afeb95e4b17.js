@@ -1,0 +1,9 @@
+var class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1topological_douglas_simplificat7eb46ba2812d315c08230afeb95e4b17 =
+[
+    [ "__init__", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1topological_douglas_simplificat7eb46ba2812d315c08230afeb95e4b17.html#aba0bbed4b6c69a7f26787ac15f6c5f13", null ],
+    [ "execute", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1topological_douglas_simplificat7eb46ba2812d315c08230afeb95e4b17.html#a33202769765e55e12d6eb607179fce08", null ],
+    [ "runProcessinAlg", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1topological_douglas_simplificat7eb46ba2812d315c08230afeb95e4b17.html#af32407c7dd723c00d3c41eac869576c4", null ],
+    [ "classesWithElemDict", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1topological_douglas_simplificat7eb46ba2812d315c08230afeb95e4b17.html#a588ae3a617e5dc5da869464fd313d2fc", null ],
+    [ "parameters", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1topological_douglas_simplificat7eb46ba2812d315c08230afeb95e4b17.html#a61dfa04d8a428ed7e28fd5482c2f21fd", null ],
+    [ "processAlias", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1topological_douglas_simplificat7eb46ba2812d315c08230afeb95e4b17.html#adeb177ee8ab9da1698dcffba4ced9595", null ]
+];

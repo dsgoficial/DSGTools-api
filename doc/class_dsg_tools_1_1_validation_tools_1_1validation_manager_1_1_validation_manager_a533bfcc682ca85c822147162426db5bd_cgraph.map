@@ -1,0 +1,8 @@
+<map id="DsgTools.ValidationTools.validationManager.ValidationManager.getProcessChain" name="DsgTools.ValidationTools.validationManager.ValidationManager.getProcessChain">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_validation_tools_1_1validation_manager_1_1_validation_manager.html#ac3667c7214510a01bb6fa1b3825de13d" title="DsgTools.ValidationTools.validation\lManager.ValidationManager.instantiate\lProcessByName" alt="" coords="709,5,960,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_validation_tools_1_1validation_manager_1_1_validation_manager.html#add0d3a87de62da336d733cf3b1aae3b4" title="DsgTools.ValidationTools.validation\lManager.ValidationManager.generateProcess\lObjects" alt="" coords="345,55,636,107"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_validation_tools_1_1validation_manager_1_1_validation_manager.html#a2d8658908b9fd7f171aefa0dc4a617a3" title="DsgTools.ValidationTools.validation\lManager.ValidationManager.executeProcessV2" alt="" coords="684,96,985,135"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="1398,103,1605,128"/>
+<area shape="rect" id="node7" href="$class_dsg_tools_1_1_validation_tools_1_1validation_manager_1_1_validation_manager.html#aaba55832ad4846f8009124924c5b3cca" title="DsgTools.ValidationTools.validation\lManager.ValidationManager.getParametersWithUi" alt="" coords="1033,124,1350,163"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="1653,96,1875,135"/>
+</map>

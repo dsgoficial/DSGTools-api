@@ -1,0 +1,10 @@
+var class_dsg_tools_1_1_postgis_customization_1_1_custom_j_s_o_n_validator_1_1custom_j_s_o_n_validator_1_1_custom_j_s_o_n_validator =
+[
+    [ "__init__", "class_dsg_tools_1_1_postgis_customization_1_1_custom_j_s_o_n_validator_1_1custom_j_s_o_n_validator_1_1_custom_j_s_o_n_validator.html#ad71f82ef3650b77e9410a1016bfa60c2", null ],
+    [ "parseJson", "class_dsg_tools_1_1_postgis_customization_1_1_custom_j_s_o_n_validator_1_1custom_j_s_o_n_validator_1_1_custom_j_s_o_n_validator.html#af58c6355156f3c378265ee599cfc890f", null ],
+    [ "validate", "class_dsg_tools_1_1_postgis_customization_1_1_custom_j_s_o_n_validator_1_1custom_j_s_o_n_validator_1_1_custom_j_s_o_n_validator.html#af83ca0c45e6535bb98e0d4be4dc69d29", null ],
+    [ "validateDsgToolsClassNames", "class_dsg_tools_1_1_postgis_customization_1_1_custom_j_s_o_n_validator_1_1custom_j_s_o_n_validator_1_1_custom_j_s_o_n_validator.html#a70f7e12a5d9f38992f24f7e73d1d3024", null ],
+    [ "validateGeometricPrimitives", "class_dsg_tools_1_1_postgis_customization_1_1_custom_j_s_o_n_validator_1_1custom_j_s_o_n_validator_1_1_custom_j_s_o_n_validator.html#ab5441a205a65a56cb4de26d99cfec49f", null ],
+    [ "validateTags", "class_dsg_tools_1_1_postgis_customization_1_1_custom_j_s_o_n_validator_1_1custom_j_s_o_n_validator_1_1_custom_j_s_o_n_validator.html#a060a9f1489683d123e0bb8507d8440cb", null ],
+    [ "jsonFile", "class_dsg_tools_1_1_postgis_customization_1_1_custom_j_s_o_n_validator_1_1custom_j_s_o_n_validator_1_1_custom_j_s_o_n_validator.html#ae30f530a1a2ad9a95b84383da7b9092a", null ]
+];

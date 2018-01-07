@@ -1,0 +1,4 @@
+<map id="DsgTools.CustomWidgets.AdvancedConnectionWidgets.connectionComboBox.ConnectionComboBox.loadDatabase" name="DsgTools.CustomWidgets.AdvancedConnectionWidgets.connectionComboBox.ConnectionComboBox.loadDatabase">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a111369eb95d1564237c0ebd816696db5" title="DsgTools.CustomWidgets.connection\lWidget.ConnectionWidget.on\l_comboBoxPostgis_currentIndexChanged" alt="" coords="328,5,599,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a6333c3b12ad8e2d0e48bd79f839a22b6" title="DsgTools.CustomWidgets.connection\lWidget.ConnectionWidget.on\l_pushButtonOpenFile_clicked" alt="" coords="343,81,585,133"/>
+</map>

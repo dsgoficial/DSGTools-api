@@ -1,0 +1,5 @@
+<map id="DsgTools.UserTools.serverProfilesManager.ServerProfilesManager.on_closeButton_clicked" name="DsgTools.UserTools.serverProfilesManager.ServerProfilesManager.on_closeButton_clicked">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_custom_widgets_1_1_basic_interface_widgets_1_1shortcut_chooser_widget_1_1_shortcut_chooser_widget.html#a8caccf99dc3bcec994b09a4447773f04" title="DsgTools.CustomWidgets.Basic\lInterfaceWidgets.shortcutChooser\lWidget.ShortcutChooserWidget.setEnabled" alt="" coords="270,5,549,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_custom_widgets_1_1button_prop_widget_1_1_button_prop_widget.html#a383e59fb5ca1bb61e10bd0045eaea03b" title="DsgTools.CustomWidgets.button\lPropWidget.ButtonPropWidget.setEnabled" alt="" coords="273,81,546,120"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_user_tools_1_1server_profiles_manager_1_1_server_profiles_manager.html#a2af0ba7859888cb5a0f2932084cee88c" title="DsgTools.UserTools.server\lProfilesManager.ServerProfiles\lManager.setEnabled" alt="" coords="307,144,512,196"/>
+</map>

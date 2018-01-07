@@ -1,0 +1,5 @@
+<map id="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.getGeometricTableListFromSchema" name="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.getGeometricTableListFromSchema">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#ab522beb68a06f7e325bc10a8c0b5506d" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.checkAndOpenDb" alt="" coords="373,5,623,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="671,41,878,67"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="926,35,1147,73"/>
+</map>

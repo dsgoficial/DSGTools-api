@@ -1,0 +1,5 @@
+<map id="DsgTools.DbTools.PostGISTool.postgisDBTool.PostgisDBTool.getDatabase" name="DsgTools.DbTools.PostGISTool.postgisDBTool.PostgisDBTool.getDatabase">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_db_tools_1_1_post_g_i_s_tool_1_1postgis_d_b_tool_1_1_postgis_d_b_tool.html#aaf3a0db048ca58b5535283c1c9fbd232" title="DsgTools.DbTools.PostGISTool.postgis\lDBTool.PostgisDBTool.on_saveButton_clicked" alt="" coords="305,5,601,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_db_tools_1_1_post_g_i_s_tool_1_1postgis_d_b_tool_1_1_postgis_d_b_tool.html#ace7579b7cb8b1d20e7f25053f06b60cb" title="DsgTools.DbTools.PostGISTool.postgis\lDBTool.PostgisDBTool.createDatabase" alt="" coords="327,68,579,107"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#ac9366aea071d6c0baa3c02094a2b69a6" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.createTemplateDatabase" alt="" coords="649,68,903,107"/>
+</map>

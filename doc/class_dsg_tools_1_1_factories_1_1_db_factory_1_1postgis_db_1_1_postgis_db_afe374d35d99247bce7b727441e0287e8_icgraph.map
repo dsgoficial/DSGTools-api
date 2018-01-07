@@ -1,0 +1,4 @@
+<map id="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.getConnectionFromQSettings" name="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.getConnectionFromQSettings">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a122957ae0b6aae812ae0b7be9372cb52" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.connectDatabaseWithQSettings" alt="" coords="336,5,631,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#aefc6ec43dd4d6e8f63d43e3f36f7cba2" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.connectDatabase" alt="" coords="679,5,924,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DsgTools.LayerTools.CreateFrameTool.map_index.UtmGrid.getHemisphereMultiplier" name="DsgTools.LayerTools.CreateFrameTool.map_index.UtmGrid.getHemisphereMultiplier">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_layer_tools_1_1_create_frame_tool_1_1map__index_1_1_utm_grid.html#aecd1f1dd22ac5ca3ceb9b2ae70d94130" title="DsgTools.LayerTools.Create\lFrameTool.map_index.UtmGrid.get\lLLCornerLatitude1kk" alt="" coords="282,56,511,108"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_layer_tools_1_1_create_frame_tool_1_1map__index_1_1_utm_grid.html#a90dcecfe55cce7c83d38fbf95c05af0b" title="DsgTools.LayerTools.Create\lFrameTool.map_index.UtmGrid.get\lLLCorner" alt="" coords="559,56,788,108"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_layer_tools_1_1_create_frame_tool_1_1map__index_1_1_utm_grid.html#a966bc1ef179c687e96a4cd4cca9b20c1" title="DsgTools.LayerTools.Create\lFrameTool.map_index.UtmGrid.get\lQgsPolygonFrame" alt="" coords="852,5,1081,57"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_layer_tools_1_1_create_frame_tool_1_1map__index_1_1_utm_grid.html#a233e42aa31272b74df7f1ea5a3d2583f" title="DsgTools.LayerTools.Create\lFrameTool.map_index.UtmGrid.populate\lQgsLayer" alt="" coords="836,105,1097,157"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_layer_tools_1_1_create_frame_tool_1_1map__index_1_1_utm_grid.html#a50d47526233975cfd827317b5eb52c41" title="DsgTools.LayerTools.Create\lFrameTool.map_index.UtmGrid.compute\lNumberOfSteps" alt="" coords="1145,105,1407,157"/>
+</map>

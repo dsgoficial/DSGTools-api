@@ -1,0 +1,4 @@
+<map id="DsgTools.ProductionTools.MinimumAreaTool.minimumAreaTool.MinimumAreaTool.on_createCustomSizesPushButton_clicked" name="DsgTools.ProductionTools.MinimumAreaTool.minimumAreaTool.MinimumAreaTool.on_createCustomSizesPushButton_clicked">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_production_tools_1_1_minimum_area_tool_1_1minimum_area_tool_1_1_minimum_area_tool.html#af61c0cf9d0b7f40dc5d3bf0030b15559" title="DsgTools.ProductionTools.\lMinimumAreaTool.minimumAreaTool.\lMinimumAreaTool.getCustomSizesDict" alt="" coords="348,5,600,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_production_tools_1_1_minimum_area_tool_1_1minimum_area_tool_1_1_minimum_area_tool.html#a158342f0bdf88f09f814c4de5c54e912" title="DsgTools.ProductionTools.\lMinimumAreaTool.minimumAreaTool.\lMinimumAreaTool.addValueToCustomSizesDict" alt="" coords="323,81,626,133"/>
+</map>

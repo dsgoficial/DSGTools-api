@@ -1,0 +1,5 @@
+<map id="DsgTools.ProductionTools.ContourTool.dsg_line_tool.DsgLineTool.snapPoint" name="DsgTools.ProductionTools.ContourTool.dsg_line_tool.DsgLineTool.snapPoint">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_production_tools_1_1_contour_tool_1_1dsg__line__tool_1_1_dsg_line_tool.html#a9c7fbddb2710b258921c9fe240e11dca" title="DsgTools.ProductionTools.\lContourTool.dsg_line_tool.DsgLine\lTool.canvasPressEvent" alt="" coords="281,5,510,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_production_tools_1_1_contour_tool_1_1dsg__line__tool_1_1_dsg_line_tool.html#a52180955a23d47f8ba857dac3b55e51a" title="DsgTools.ProductionTools.\lContourTool.dsg_line_tool.DsgLine\lTool.canvasReleaseEvent" alt="" coords="281,81,510,133"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_production_tools_1_1_contour_tool_1_1dsg__line__tool_1_1_dsg_line_tool.html#ab00cc182b6fd3fda100a0fda14b5cf22" title="DsgTools.ProductionTools.\lContourTool.dsg_line_tool.DsgLine\lTool.canvasMoveEvent" alt="" coords="281,157,510,209"/>
+</map>

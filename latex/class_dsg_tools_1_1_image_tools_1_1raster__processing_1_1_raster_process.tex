@@ -1,0 +1,247 @@
+\hypertarget{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process}{}\section{Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process Class Reference}
+\label{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process}\index{Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process@{Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process}}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a986059850e6b1e6ffb282e4ef937da7d}\label{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a986059850e6b1e6ffb282e4ef937da7d}} 
+def {\bfseries \+\_\+\+\_\+init\+\_\+\+\_\+} (self)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a9efca9cef0b40ad8ca0e4e0b949efc8d}{open\+Raster}} (self, file)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a89410abdd251c750c0e13783e9bfbe23}{get\+Band\+As\+Array}} (self, raster, bandnumber)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a27bbae0bc866c3f178be14c3f0738d6c}{get\+Georeference\+Info}} (self, raster)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_aef5604afa2c25b7eef155b0946c44792}{get\+C\+RS}} (self, raster)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_af334cdc5aa7d11ee74e1cc97b3007abf}{create\+Raster\+From\+R\+G\+Bbands}} (self, srcraster, red, green, blue, destfile)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_ae0baa21e8ad949a1b32a7b5009cdda5b}{create\+Raster}} (self, srcraster, destfile, pixel\+Type)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_ab97bd21a7e0e90893917b02be37d8001}{pansharpen\+Image}} (self, rgbfile, panfile, destfile)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a7405dd5cf5bd2de7f65e0e7bb0a404ae}{normalize}} (self, arr)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a12d8f5cf2100deb19ccf59e86596648e}{read\+Block}} (self, band, sizeX, sizeY=1, offsetY=0, pixel\+Type=gdal.\+G\+D\+T\+\_\+\+Byte)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_af890891226e6d4972902850f68100d88}{get\+Numpy\+Type}} (self, pixel\+Type=gdal.\+G\+D\+T\+\_\+\+Byte)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_abd1c9e282d7419d6f808986c26f7bdd2}{write\+Block}} (self, band, block, sizeX, sizeY=1, offsetY=0, pixel\+Type=gdal.\+G\+D\+T\+\_\+\+Byte)
+\end{DoxyCompactItemize}
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_ae0baa21e8ad949a1b32a7b5009cdda5b}\label{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_ae0baa21e8ad949a1b32a7b5009cdda5b}} 
+\index{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}!create\+Raster@{create\+Raster}}
+\index{create\+Raster@{create\+Raster}!Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{create\+Raster()}{createRaster()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process.\+create\+Raster (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{srcraster,  }\item[{}]{destfile,  }\item[{}]{pixel\+Type }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Creates a raster file
+srcraster: source raster
+destfile: destination file
+pixelType: raster pixel type (e.g byte)
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_ae0baa21e8ad949a1b32a7b5009cdda5b_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_ae0baa21e8ad949a1b32a7b5009cdda5b_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_af334cdc5aa7d11ee74e1cc97b3007abf}\label{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_af334cdc5aa7d11ee74e1cc97b3007abf}} 
+\index{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}!create\+Raster\+From\+R\+G\+Bbands@{create\+Raster\+From\+R\+G\+Bbands}}
+\index{create\+Raster\+From\+R\+G\+Bbands@{create\+Raster\+From\+R\+G\+Bbands}!Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{create\+Raster\+From\+R\+G\+Bbands()}{createRasterFromRGBbands()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process.\+create\+Raster\+From\+R\+G\+Bbands (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{srcraster,  }\item[{}]{red,  }\item[{}]{green,  }\item[{}]{blue,  }\item[{}]{destfile }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Creates a raster file from RGB bands
+srcraster: source raster file
+red: red band
+green: green band
+blue: blue band
+destfile: destination file
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_af334cdc5aa7d11ee74e1cc97b3007abf_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a89410abdd251c750c0e13783e9bfbe23}\label{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a89410abdd251c750c0e13783e9bfbe23}} 
+\index{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}!get\+Band\+As\+Array@{get\+Band\+As\+Array}}
+\index{get\+Band\+As\+Array@{get\+Band\+As\+Array}!Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{get\+Band\+As\+Array()}{getBandAsArray()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process.\+get\+Band\+As\+Array (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{raster,  }\item[{}]{bandnumber }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Gets a raster band as array
+raster: gdal raster file
+bandnumber: band number
+\end{DoxyVerb}
+ \mbox{\Hypertarget{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_aef5604afa2c25b7eef155b0946c44792}\label{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_aef5604afa2c25b7eef155b0946c44792}} 
+\index{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}!get\+C\+RS@{get\+C\+RS}}
+\index{get\+C\+RS@{get\+C\+RS}!Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{get\+C\+R\+S()}{getCRS()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process.\+get\+C\+RS (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{raster }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Gets raster file CRS
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_aef5604afa2c25b7eef155b0946c44792_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a27bbae0bc866c3f178be14c3f0738d6c}\label{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a27bbae0bc866c3f178be14c3f0738d6c}} 
+\index{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}!get\+Georeference\+Info@{get\+Georeference\+Info}}
+\index{get\+Georeference\+Info@{get\+Georeference\+Info}!Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{get\+Georeference\+Info()}{getGeoreferenceInfo()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process.\+get\+Georeference\+Info (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{raster }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Gets georeference information
+raster: raster file 
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a27bbae0bc866c3f178be14c3f0738d6c_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_af890891226e6d4972902850f68100d88}\label{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_af890891226e6d4972902850f68100d88}} 
+\index{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}!get\+Numpy\+Type@{get\+Numpy\+Type}}
+\index{get\+Numpy\+Type@{get\+Numpy\+Type}!Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{get\+Numpy\+Type()}{getNumpyType()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process.\+get\+Numpy\+Type (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{pixel\+Type = {\ttfamily gdal.GDT\+\_\+Byte} }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Translates the gdal raster type to numpy type
+pixelType: gdal raster type
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_af890891226e6d4972902850f68100d88_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a7405dd5cf5bd2de7f65e0e7bb0a404ae}\label{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a7405dd5cf5bd2de7f65e0e7bb0a404ae}} 
+\index{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}!normalize@{normalize}}
+\index{normalize@{normalize}!Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{normalize()}{normalize()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process.\+normalize (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{arr }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Function to normalize an input array to 0-1
+\end{DoxyVerb}
+ \mbox{\Hypertarget{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a9efca9cef0b40ad8ca0e4e0b949efc8d}\label{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a9efca9cef0b40ad8ca0e4e0b949efc8d}} 
+\index{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}!open\+Raster@{open\+Raster}}
+\index{open\+Raster@{open\+Raster}!Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{open\+Raster()}{openRaster()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process.\+open\+Raster (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{file }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Opens a gdal raster file
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a9efca9cef0b40ad8ca0e4e0b949efc8d_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_ab97bd21a7e0e90893917b02be37d8001}\label{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_ab97bd21a7e0e90893917b02be37d8001}} 
+\index{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}!pansharpen\+Image@{pansharpen\+Image}}
+\index{pansharpen\+Image@{pansharpen\+Image}!Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{pansharpen\+Image()}{pansharpenImage()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process.\+pansharpen\+Image (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{rgbfile,  }\item[{}]{panfile,  }\item[{}]{destfile }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Performs a HSV fusion
+rgbfile: original RGB raster file
+panfile: original PAN raster file
+destfile: destination file
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_ab97bd21a7e0e90893917b02be37d8001_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a12d8f5cf2100deb19ccf59e86596648e}\label{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a12d8f5cf2100deb19ccf59e86596648e}} 
+\index{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}!read\+Block@{read\+Block}}
+\index{read\+Block@{read\+Block}!Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{read\+Block()}{readBlock()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process.\+read\+Block (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{band,  }\item[{}]{sizeX,  }\item[{}]{sizeY = {\ttfamily 1},  }\item[{}]{offsetY = {\ttfamily 0},  }\item[{}]{pixel\+Type = {\ttfamily gdal.GDT\+\_\+Byte} }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Reads image block
+band: band used
+sizeX: x block size
+sizeY: y block size
+offsetY: Y offset
+pixelType: pixel type
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a12d8f5cf2100deb19ccf59e86596648e_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_a12d8f5cf2100deb19ccf59e86596648e_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_abd1c9e282d7419d6f808986c26f7bdd2}\label{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_abd1c9e282d7419d6f808986c26f7bdd2}} 
+\index{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}!write\+Block@{write\+Block}}
+\index{write\+Block@{write\+Block}!Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process@{Dsg\+Tools\+::\+Image\+Tools\+::raster\+\_\+processing\+::\+Raster\+Process}}
+\subsubsection{\texorpdfstring{write\+Block()}{writeBlock()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Image\+Tools.\+raster\+\_\+processing.\+Raster\+Process.\+write\+Block (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{band,  }\item[{}]{block,  }\item[{}]{sizeX,  }\item[{}]{sizeY = {\ttfamily 1},  }\item[{}]{offsetY = {\ttfamily 0},  }\item[{}]{pixel\+Type = {\ttfamily gdal.GDT\+\_\+Byte} }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Writes image block
+band: band used
+sizeX: x block size
+sizeY: y block size
+offsetY: Y offset
+pixelType: pixel type
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_abd1c9e282d7419d6f808986c26f7bdd2_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process_abd1c9e282d7419d6f808986c26f7bdd2_icgraph}
+\end{center}
+\end{figure}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+/\+Users/luiz/.\+qgis2/python/plugins/\+Dsg\+Tools/\+Image\+Tools/raster\+\_\+processing.\+py\end{DoxyCompactItemize}

@@ -1,0 +1,5 @@
+<map id="DsgTools.ServerManagementTools.permissionManager.PermissionManager.getDatabasePerspectiveDict" name="DsgTools.ServerManagementTools.permissionManager.PermissionManager.getDatabasePerspectiveDict">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager.html#a164d75a558e236cd4c76cb0c451d513a" title="DsgTools.ServerManagement\lTools.permissionManager.Permission\lManager.getRolesInformation" alt="" coords="299,5,541,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_server_management_tools_1_1generic_db_manager_1_1_generic_db_manager.html#a4817d8093103ba3574d693fb172ad89b" title="DsgTools.ServerManagement\lTools.genericDbManager.Generic\lDbManager.getSettings" alt="" coords="310,81,529,133"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_server_management_tools_1_1generic_db_manager_1_1_generic_db_manager.html#ad8201c690edf80469d0c79d7dcd1a408" title="DsgTools.ServerManagement\lTools.genericDbManager.Generic\lDbManager.getManagerType" alt="" coords="589,81,808,133"/>
+</map>

@@ -1,0 +1,27 @@
+var class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget =
+[
+    [ "__init__", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a6982904c57913be2d825dcc83ea22349", null ],
+    [ "__del__", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a14c45f19e2a6d05229efad3806ae7a05", null ],
+    [ "clearAll", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a08811cc473d6f2a2c4775a6f93e825e4", null ],
+    [ "closeDatabase", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a5db934d202ff7387e420a05fbf1508ed", null ],
+    [ "getDatabasesFromServer", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#ae789614935c50c34eb9d3df90859938e", null ],
+    [ "getDBVersion", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a868be5c3d72e9f02fd128876ae6f4468", null ],
+    [ "getQmlPath", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a265c92cef40ed91119a1b831141acb11", null ],
+    [ "isDBConnected", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a4f15ad54d84acb8cd9dc06906e54a8d1", null ],
+    [ "loadDatabase", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a096129937bbcdb652013088000273af0", null ],
+    [ "on_comboBoxPostgis_currentIndexChanged", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a111369eb95d1564237c0ebd816696db5", null ],
+    [ "on_pushButtonOpenFile_clicked", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a6333c3b12ad8e2d0e48bd79f839a22b6", null ],
+    [ "on_tabWidget_currentChanged", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a3d4a5a9dc4b87b4abffd9d41a7407a42", null ],
+    [ "setCRS", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a33b3f9d4a7fa240bda00d7d874e7fa49", null ],
+    [ "setInitialState", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a28b6fab24dc11d1aa3d81b5e22cd80bb", null ],
+    [ "abstractDb", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a17c94b9d66d77b51dfbda14215f0ea7c", null ],
+    [ "abstractDbFactory", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a8ef6232b352558a1c32b1aff9d8e6129", null ],
+    [ "crs", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a88e9bfeda3612bd8a97dd081f821541b", null ],
+    [ "dbLoaded", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a19b0c87dc0a72b896f4a1cc2ec8f47f7", null ],
+    [ "dbVersion", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a12bd4c2c01e07524be26f39d76c110f8", null ],
+    [ "epsg", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a19968088bf6557be22ed26d4999711ec", null ],
+    [ "filename", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a2bd00fde5091705615aeb2182ca70502", null ],
+    [ "isSpatialite", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a97bf55f8a8feb08a153c9881a9c8a429", null ],
+    [ "styles", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#ac2008528c788b8ede91777319f263c83", null ],
+    [ "utils", "class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#aadac3ab9942ae6c9d0784c725c5cc4b4", null ]
+];

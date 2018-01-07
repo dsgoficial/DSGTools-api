@@ -1,0 +1,8 @@
+<map id="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.createResolvedDomainViews" name="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.createResolvedDomainViews">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#ab522beb68a06f7e325bc10a8c0b5506d" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.checkAndOpenDb" alt="" coords="920,86,1170,125"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="1218,36,1425,61"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#ad207ce5d993c5c3b3d1cc8dcc1403f7d" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.checkSuperUser" alt="" coords="627,29,872,68"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a2712a02bf8c2cb9bef4245b7be7ba6bd" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getSqlViewFile" alt="" coords="334,144,579,182"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="1473,29,1694,68"/>
+<area shape="rect" id="node7" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#af7605f4bd100927ce43472e864764774" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getDatabaseVersion" alt="" coords="627,144,872,182"/>
+</map>

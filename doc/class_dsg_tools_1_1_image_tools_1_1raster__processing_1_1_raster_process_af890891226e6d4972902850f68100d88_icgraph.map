@@ -1,0 +1,8 @@
+<map id="DsgTools.ImageTools.raster_processing.RasterProcess.getNumpyType" name="DsgTools.ImageTools.raster_processing.RasterProcess.getNumpyType">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#a12d8f5cf2100deb19ccf59e86596648e" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.readBlock" alt="" coords="332,5,579,44"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#abd1c9e282d7419d6f808986c26f7bdd2" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.writeBlock" alt="" coords="331,68,580,107"/>
+<area shape="rect" id="node6" href="$class_h_s_v__fusion_1_1_raster_process.html#a1c123d5883dc2c2783391cdb7ebfe738" title="HSV_fusion.RasterProcess.read\lBlock" alt="" coords="349,131,562,169"/>
+<area shape="rect" id="node7" href="$class_h_s_v__fusion_1_1_raster_process.html#a602e8caa6f0961893dafcb169f191373" title="HSV_fusion.RasterProcess.write\lBlock" alt="" coords="348,193,563,232"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_image_tools_1_1raster__processing_1_1_raster_process.html#ab97bd21a7e0e90893917b02be37d8001" title="DsgTools.ImageTools.raster\l_processing.RasterProcess.pansharpenImage" alt="" coords="628,21,923,60"/>
+<area shape="rect" id="node4" href="$class_h_s_v__fusion_1_1_raster_process.html#aca76f020e0abc7e7985a82381f989d9a" title="HSV_fusion.RasterProcess.pansharpen\lImage" alt="" coords="647,100,904,139"/>
+</map>

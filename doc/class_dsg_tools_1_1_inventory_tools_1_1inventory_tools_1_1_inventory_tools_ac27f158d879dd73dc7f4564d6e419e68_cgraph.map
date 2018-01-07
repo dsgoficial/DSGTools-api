@@ -1,0 +1,10 @@
+<map id="DsgTools.InventoryTools.inventoryTools.InventoryTools.__init__" name="DsgTools.InventoryTools.inventoryTools.InventoryTools.__init__">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_production_tools_1_1_inspect_features_1_1inspect_features__ui_1_1_ui___form.html#ac8794b6eb9168a383ec1b301f7eb88fb" title="DsgTools.ProductionTools.\lInspectFeatures.inspectFeatures\l_ui.Ui_Form.setupUi" alt="" coords="281,39,497,91"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_inventory_tools_1_1inventory_tools_1_1_inventory_tools.html#ad2eacea7f239cce9518b8096a51cd9ed" title="DsgTools.InventoryTools.inventory\lTools.InventoryTools.createMenu" alt="" coords="277,115,501,154"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="845,31,1053,56"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_inventory_tools_1_1inventory_tools_1_1_inventory_tools.html#a9cb93926117e29913885ec0f35ebe83c" title="DsgTools.InventoryTools.inventory\lTools.InventoryTools.insertExtension" alt="" coords="555,52,792,91"/>
+<area shape="rect" id="node7" href="$class_dsg_tools_1_1_complex_tools_1_1complex_window_1_1_complex_window.html#ab97194d04bc78eb3536f4c5c8325cbe1" title="DsgTools.ComplexTools.complex\lWindow.ComplexWindow.depth" alt="" coords="565,115,782,154"/>
+<area shape="rect" id="node8" href="$class_dsg_tools_1_1_inventory_tools_1_1inventory_tools_1_1_inventory_tools.html#ae5e3d8c75b14858504e8acc404dbf89e" title="DsgTools.InventoryTools.inventory\lTools.InventoryTools.depth" alt="" coords="561,178,785,216"/>
+<area shape="rect" id="node9" href="$class_dsg_tools_1_1_inventory_tools_1_1inventory_tools_1_1_inventory_tools.html#aa4ce23cbaf7b5c1c23e11e1925cefae9" title="DsgTools.InventoryTools.inventory\lTools.InventoryTools.removeExtension" alt="" coords="549,240,797,279"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="1101,24,1322,63"/>
+</map>

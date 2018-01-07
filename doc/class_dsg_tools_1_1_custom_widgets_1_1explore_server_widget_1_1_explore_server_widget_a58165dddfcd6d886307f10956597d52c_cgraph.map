@@ -1,0 +1,7 @@
+<map id="DsgTools.CustomWidgets.exploreServerWidget.ExploreServerWidget.on_createNewServerPushButton_clicked" name="DsgTools.CustomWidgets.exploreServerWidget.ExploreServerWidget.on_createNewServerPushButton_clicked">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_custom_widgets_1_1explore_server_widget_1_1_explore_server_widget.html#a0f623e6eb0c758c98e1868f770f13eaf" title="DsgTools.CustomWidgets.explore\lServerWidget.ExploreServerWidget.populate\lServersCombo" alt="" coords="304,61,590,113"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="662,12,869,37"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_custom_widgets_1_1explore_server_widget_1_1_explore_server_widget.html#a637e196dd18e352d8635b217dc8b75bf" title="DsgTools.CustomWidgets.explore\lServerWidget.ExploreServerWidget.get\lServers" alt="" coords="638,61,892,113"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_custom_widgets_1_1explore_server_widget_1_1_explore_server_widget.html#ae76906b263b378952f3fd1e967c83482" title="DsgTools.CustomWidgets.explore\lServerWidget.ExploreServerWidget.get\lServerConfiguration" alt="" coords="638,137,892,189"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="940,5,1162,44"/>
+</map>

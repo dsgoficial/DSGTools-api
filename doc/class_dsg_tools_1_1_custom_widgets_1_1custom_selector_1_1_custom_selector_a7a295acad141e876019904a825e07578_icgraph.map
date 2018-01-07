@@ -1,0 +1,4 @@
+<map id="DsgTools.CustomWidgets.customSelector.CustomSelector.clearAll" name="DsgTools.CustomWidgets.customSelector.CustomSelector.clearAll">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_server_tools_1_1explore_db_1_1_explore_db.html#a8093d338ae06bf10048cf67eb963190a" title="DsgTools.ServerTools.explore\lDb.ExploreDb.__init__" alt="" coords="297,5,495,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_server_tools_1_1explore_db_1_1_explore_db.html#af889de9b8f68501bb60a088fe1523d5a" title="DsgTools.ServerTools.explore\lDb.ExploreDb.on_dropDatabasePush\lButton_clicked" alt="" coords="274,68,518,120"/>
+</map>

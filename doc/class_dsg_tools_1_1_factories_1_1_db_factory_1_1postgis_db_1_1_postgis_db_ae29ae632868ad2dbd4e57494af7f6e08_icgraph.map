@@ -1,0 +1,8 @@
+<map id="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.getStructureDict" name="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.getStructureDict">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#abe4a9ee62e78b6583a4e7c4f48dee173" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.buildFieldMap" alt="" coords="341,37,591,76"/>
+<area shape="rect" id="node7" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1spatialite_db_1_1_spatialite_db.html#ae6063c531bf964bc1ffb392c2324fa89" title="DsgTools.Factories.DbFactory.spatialite\lDb.SpatialiteDb.validateWithOutputDatabaseSchema" alt="" coords="298,100,635,139"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#aed5b42455a633ecafc823b7f8591cce7" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.prepareForConversion" alt="" coords="683,37,933,76"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#ac900af7485f736aa0337be6b7e758ef0" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.convertToSpatialite" alt="" coords="986,5,1231,44"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1spatialite_db_1_1_spatialite_db.html#a06dd9cc920f62cd988d92bcedabf5a88" title="DsgTools.Factories.DbFactory.spatialite\lDb.SpatialiteDb.convertToPostgis" alt="" coords="981,68,1236,107"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#af2cfa7cec72d89c8bff648a1ef6fd895" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.convertDatabase" alt="" coords="1284,37,1534,76"/>
+</map>

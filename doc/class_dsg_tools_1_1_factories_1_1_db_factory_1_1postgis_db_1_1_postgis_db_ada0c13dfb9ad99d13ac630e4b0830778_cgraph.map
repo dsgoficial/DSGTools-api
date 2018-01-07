@@ -1,0 +1,8 @@
+<map id="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.getParentGeomTables" name="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.getParentGeomTables">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#ab522beb68a06f7e325bc10a8c0b5506d" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.checkAndOpenDb" alt="" coords="300,5,550,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="600,41,808,67"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a952d8f4e7609f38fbb7a03bacc2cbcca" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getGeomColumnDictV2" alt="" coords="302,120,549,159"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a53fede69694cbaa1683e368b98bbd05c" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getInheritanceDict" alt="" coords="303,183,548,221"/>
+<area shape="rect" id="node7" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a0e4a4fed7d83ffe47d69adcb41c0024f" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getTableSchemaFromDb" alt="" coords="298,245,552,284"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="856,35,1077,73"/>
+</map>

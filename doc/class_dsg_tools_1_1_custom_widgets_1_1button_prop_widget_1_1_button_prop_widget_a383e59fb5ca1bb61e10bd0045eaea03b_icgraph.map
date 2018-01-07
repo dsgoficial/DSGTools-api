@@ -1,0 +1,4 @@
+<map id="DsgTools.CustomWidgets.buttonPropWidget.ButtonPropWidget.setEnabled" name="DsgTools.CustomWidgets.buttonPropWidget.ButtonPropWidget.setEnabled">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_user_tools_1_1server_profiles_manager_1_1_server_profiles_manager.html#a763bbc1efad90efa1b5aba9de2251002" title="DsgTools.UserTools.server\lProfilesManager.ServerProfiles\lManager.on_closeButton_clicked" alt="" coords="378,5,595,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_user_tools_1_1server_profiles_manager_1_1_server_profiles_manager.html#a840814bdb284ff84c78d680cbe2f84f7" title="DsgTools.UserTools.server\lProfilesManager.ServerProfiles\lManager.on_createPermissionPushButton_clicked" alt="" coords="327,81,646,133"/>
+</map>

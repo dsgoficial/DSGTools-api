@@ -1,0 +1,6 @@
+<map id="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.listComplexClassesFromDatabase" name="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.listComplexClassesFromDatabase">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#ab522beb68a06f7e325bc10a8c0b5506d" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.checkAndOpenDb" alt="" coords="664,29,914,67"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="962,35,1170,61"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a39cf35c860d0470af3aba54955dd0c19" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getTablesFromDatabase" alt="" coords="364,83,616,122"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="1218,29,1439,67"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="DsgTools.Factories.DbFactory.spatialiteDb.SpatialiteDb.listGeomClassesFromDatabase" name="DsgTools.Factories.DbFactory.spatialiteDb.SpatialiteDb.listGeomClassesFromDatabase">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#ab522beb68a06f7e325bc10a8c0b5506d" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.checkAndOpenDb" alt="" coords="670,29,920,68"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="968,36,1176,61"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1spatialite_db_1_1_spatialite_db.html#aaae60033f57202171d14f0c266b5fe36" title="DsgTools.Factories.DbFactory.spatialite\lDb.SpatialiteDb.getTablesFromDatabase" alt="" coords="359,84,622,122"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="1224,29,1445,68"/>
+</map>

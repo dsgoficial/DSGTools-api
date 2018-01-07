@@ -1,0 +1,9 @@
+<map id="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.updateEarthCoverageDict" name="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.updateEarthCoverageDict">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a36cb595dec4d566e10994f2edc227621" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.createCentroidAuxStruct" alt="" coords="313,98,565,136"/>
+<area shape="rect" id="node8" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a38741d156f8168459c1e9579aac213d2" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.dropCentroids" alt="" coords="317,186,562,224"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#ab522beb68a06f7e325bc10a8c0b5506d" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.checkAndOpenDb" alt="" coords="915,98,1165,136"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="1213,76,1421,102"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a0e4a4fed7d83ffe47d69adcb41c0024f" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getTableSchemaFromDb" alt="" coords="613,155,867,194"/>
+<area shape="rect" id="node7" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#a757b802e1e162e035b7083af89959575" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.findEPSG" alt="" coords="615,40,865,79"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="1469,70,1690,108"/>
+</map>

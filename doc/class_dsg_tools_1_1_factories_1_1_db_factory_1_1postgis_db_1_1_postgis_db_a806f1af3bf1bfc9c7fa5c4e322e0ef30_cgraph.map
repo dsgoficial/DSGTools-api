@@ -1,0 +1,7 @@
+<map id="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.dropDatabase" name="DsgTools.Factories.DbFactory.postgisDb.PostgisDb.dropDatabase">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#ab522beb68a06f7e325bc10a8c0b5506d" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.checkAndOpenDb" alt="" coords="884,52,1134,91"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="1182,88,1389,114"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#ad207ce5d993c5c3b3d1cc8dcc1403f7d" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.checkSuperUser" alt="" coords="591,167,836,206"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#a6dd38e550a884054ab70550fcd714c32" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.dropAllConections" alt="" coords="298,88,543,127"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="1437,82,1659,120"/>
+</map>

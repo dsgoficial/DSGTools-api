@@ -1,0 +1,5 @@
+<map id="DsgTools.ServerManagementTools.genericDbManager.GenericDbManager.getPropertyPerspectiveDict" name="DsgTools.ServerManagementTools.genericDbManager.GenericDbManager.getPropertyPerspectiveDict">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_server_management_tools_1_1generic_db_manager_1_1_generic_db_manager.html#a4dcc5a53639b84fdc7f847c2a9e65a77" title="DsgTools.ServerManagement\lTools.genericDbManager.Generic\lDbManager.updateSetting" alt="" coords="309,5,528,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_server_management_tools_1_1generic_db_manager_1_1_generic_db_manager.html#a3154565227241e71d7a8763f978aa7a4" title="DsgTools.ServerManagement\lTools.genericDbManager.Generic\lDbManager.deleteSetting" alt="" coords="309,81,528,133"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_server_management_tools_1_1generic_db_manager_1_1_generic_db_manager.html#a5b45d7939d1ec1d6d4294de4fb84805f" title="DsgTools.ServerManagement\lTools.genericDbManager.Generic\lDbManager.uninstallSetting" alt="" coords="309,157,528,209"/>
+</map>

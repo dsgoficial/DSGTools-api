@@ -1,0 +1,7 @@
+<map id="DsgTools.ServerTools.serverConfigurator.ServerConfigurator.on_saveButton_clicked" name="DsgTools.ServerTools.serverConfigurator.ServerConfigurator.on_saveButton_clicked">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_db_tools_1_1_post_g_i_s_tool_1_1postgis_d_b_tool_1_1_postgis_d_b_tool.html#a7a723df457ddb1705bca7e8ba65585bb" title="DsgTools.DbTools.PostGISTool.postgis\lDBTool.PostgisDBTool.checkFields" alt="" coords="281,5,533,44"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_server_tools_1_1server_configurator_1_1_server_configurator.html#a43748d9ca579f9fcd3849a3a55c4250b" title="DsgTools.ServerTools.server\lConfigurator.ServerConfigurator.check\lFields" alt="" coords="283,68,531,120"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_server_tools_1_1server_configurator_1_1_server_configurator.html#a1f69ad61cf3d2fe52ffd2b06f29ea5e5" title="DsgTools.ServerTools.server\lConfigurator.ServerConfigurator.store\lServerConfiguration" alt="" coords="286,144,529,196"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="581,189,789,215"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="837,183,1058,221"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DsgTools.CustomWidgets.connectionWidget.ConnectionWidget.setCRS" name="DsgTools.CustomWidgets.connectionWidget.ConnectionWidget.setCRS">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a096129937bbcdb652013088000273af0" title="DsgTools.CustomWidgets.connection\lWidget.ConnectionWidget.loadDatabase" alt="" coords="296,51,557,89"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a111369eb95d1564237c0ebd816696db5" title="DsgTools.CustomWidgets.connection\lWidget.ConnectionWidget.on\l_comboBoxPostgis_currentIndexChanged" alt="" coords="605,5,876,57"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_custom_widgets_1_1connection_widget_1_1_connection_widget.html#a6333c3b12ad8e2d0e48bd79f839a22b6" title="DsgTools.CustomWidgets.connection\lWidget.ConnectionWidget.on\l_pushButtonOpenFile_clicked" alt="" coords="619,81,862,133"/>
+</map>

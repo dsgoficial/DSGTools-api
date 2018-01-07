@@ -1,0 +1,5 @@
+<map id="DsgTools.UserTools.serverProfilesManager.ServerProfilesManager.createItem" name="DsgTools.UserTools.serverProfilesManager.ServerProfilesManager.createItem">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_user_tools_1_1server_profiles_manager_1_1_server_profiles_manager.html#a55aa853f110f1aa87039275c0380d8d7" title="DsgTools.UserTools.server\lProfilesManager.ServerProfiles\lManager.readJsonFromDatabase" alt="" coords="512,5,732,57"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_user_tools_1_1server_profiles_manager_1_1_server_profiles_manager.html#a3da7f45f260e65c5f6afcde0b3a557f9" title="DsgTools.UserTools.server\lProfilesManager.ServerProfiles\lManager.createChildrenItems" alt="" coords="258,49,464,101"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_user_tools_1_1server_profiles_manager_1_1_server_profiles_manager.html#a840814bdb284ff84c78d680cbe2f84f7" title="DsgTools.UserTools.server\lProfilesManager.ServerProfiles\lManager.on_createPermissionPushButton_clicked" alt="" coords="780,5,1099,57"/>
+</map>

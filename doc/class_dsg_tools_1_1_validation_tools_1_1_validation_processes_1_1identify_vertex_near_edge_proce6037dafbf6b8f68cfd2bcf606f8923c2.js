@@ -1,0 +1,8 @@
+var class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1identify_vertex_near_edge_proce6037dafbf6b8f68cfd2bcf606f8923c2 =
+[
+    [ "__init__", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1identify_vertex_near_edge_proce6037dafbf6b8f68cfd2bcf606f8923c2.html#abc6add448f3610c75acaedbe0a3fd6f7", null ],
+    [ "execute", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1identify_vertex_near_edge_proce6037dafbf6b8f68cfd2bcf606f8923c2.html#af8bc4ee2be54dac195cb5444dac79696", null ],
+    [ "classesWithElemDict", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1identify_vertex_near_edge_proce6037dafbf6b8f68cfd2bcf606f8923c2.html#a42cd8cc6846f9dfc62d0a3d78c12aead", null ],
+    [ "parameters", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1identify_vertex_near_edge_proce6037dafbf6b8f68cfd2bcf606f8923c2.html#a9f7926355f98b30da06c42d827b0e1f8", null ],
+    [ "processAlias", "class_dsg_tools_1_1_validation_tools_1_1_validation_processes_1_1identify_vertex_near_edge_proce6037dafbf6b8f68cfd2bcf606f8923c2.html#a7e1dc4e5543eb021b2352f120b2397f8", null ]
+];

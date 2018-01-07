@@ -1,0 +1,252 @@
+\hypertarget{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager}{}\section{Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager Class Reference}
+\label{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager}\index{Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager@{Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager}}
+
+
+Inheritance diagram for Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=262pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=262pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a3819ddfd6d283080ceff2aabe67e12b4}\label{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a3819ddfd6d283080ceff2aabe67e12b4}} 
+def {\bfseries \+\_\+\+\_\+init\+\_\+\+\_\+} (self, server\+Abstract\+Db, db\+Dict, edgv\+Version, parent\+Widget=None)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a164d75a558e236cd4c76cb0c451d513a}{get\+Roles\+Information}} (self)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a11c1a21b45f76b92225d78962b8b8e55}{get\+Database\+Perspective\+Dict}} (self)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_acfa6084229b7e956dc6d3acaf77c99a7}{get\+User\+Perspective\+Dict}} (self)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a9c74d6bdc2984793dfc39d964893819a}{grant\+Permission}} (self, db\+Name, permission\+Name, edgv\+Version, user\+Name)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_ac2a41f0388c97371d3e00f30e66519b6}{grant\+Permission\+With\+Profile\+Dict}} (self, db\+Name, permission\+Name, user\+Name, profile\+Dict, update\+Permission=False)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a3ad2577af28425c49f5013968937dde5}{revoke\+Permission}} (self, db\+Name, permission\+Name, user\+Name)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_afa4a334bad05fec83bdcb570ac716aaa}{is\+Permission\+Installed}} (self, abstract\+Db, db\+Name, permission\+Name)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a26e0604c4107fc31713534e7a939de30}{update\+Setting}} (self, setting\+Name, edgv\+Version, new\+Profile\+Dict)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_abee84dfa73d922862781908b64c8258a}{delete\+Setting}} (self, setting\+Name, edgv\+Version)
+\item 
+def \mbox{\hyperlink{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_adcea6c57b219fa85a4e0c3ffa648c1ec}{validate\+Json\+Profile}} (self, input\+Json\+Dict)
+\end{DoxyCompactItemize}
+\subsection*{Additional Inherited Members}
+
+
+\subsection{Detailed Description}
+\begin{DoxyVerb}This class manages the permissions on dsgtools databases.
+\end{DoxyVerb}
+ 
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_abee84dfa73d922862781908b64c8258a}\label{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_abee84dfa73d922862781908b64c8258a}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}!delete\+Setting@{delete\+Setting}}
+\index{delete\+Setting@{delete\+Setting}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}}
+\subsubsection{\texorpdfstring{delete\+Setting()}{deleteSetting()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager.\+delete\+Setting (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{setting\+Name,  }\item[{}]{edgv\+Version }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}1. Get roles with the same definition of permissionName and delete them.
+2. Delete permission profile from public.permission_profile on dsgtools_admindb;
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_abee84dfa73d922862781908b64c8258a_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a11c1a21b45f76b92225d78962b8b8e55}\label{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a11c1a21b45f76b92225d78962b8b8e55}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}!get\+Database\+Perspective\+Dict@{get\+Database\+Perspective\+Dict}}
+\index{get\+Database\+Perspective\+Dict@{get\+Database\+Perspective\+Dict}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}}
+\subsubsection{\texorpdfstring{get\+Database\+Perspective\+Dict()}{getDatabasePerspectiveDict()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager.\+get\+Database\+Perspective\+Dict (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Gets a dict in the format: {dbName: {roleName :[-list of users-]}}
+The dbs are from dbDict 
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a11c1a21b45f76b92225d78962b8b8e55_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a11c1a21b45f76b92225d78962b8b8e55_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a164d75a558e236cd4c76cb0c451d513a}\label{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a164d75a558e236cd4c76cb0c451d513a}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}!get\+Roles\+Information@{get\+Roles\+Information}}
+\index{get\+Roles\+Information@{get\+Roles\+Information}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}}
+\subsubsection{\texorpdfstring{get\+Roles\+Information()}{getRolesInformation()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager.\+get\+Roles\+Information (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Builds two dicts:
+dbRolesDict = { 'dbname':[-list of roles-] }
+rolesDict = { 'profileName': { 'dbname' : [-list of roles with uuid on it-] } }
+\end{DoxyVerb}
+ Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a164d75a558e236cd4c76cb0c451d513a_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_acfa6084229b7e956dc6d3acaf77c99a7}\label{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_acfa6084229b7e956dc6d3acaf77c99a7}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}!get\+User\+Perspective\+Dict@{get\+User\+Perspective\+Dict}}
+\index{get\+User\+Perspective\+Dict@{get\+User\+Perspective\+Dict}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}}
+\subsubsection{\texorpdfstring{get\+User\+Perspective\+Dict()}{getUserPerspectiveDict()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager.\+get\+User\+Perspective\+Dict (\begin{DoxyParamCaption}\item[{}]{self }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Gets a dict in the format: {userName: {dbName : ['-list of roles']}
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_acfa6084229b7e956dc6d3acaf77c99a7_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a9c74d6bdc2984793dfc39d964893819a}\label{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a9c74d6bdc2984793dfc39d964893819a}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}!grant\+Permission@{grant\+Permission}}
+\index{grant\+Permission@{grant\+Permission}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}}
+\subsubsection{\texorpdfstring{grant\+Permission()}{grantPermission()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager.\+grant\+Permission (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{db\+Name,  }\item[{}]{permission\+Name,  }\item[{}]{edgv\+Version,  }\item[{}]{user\+Name }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Grants permission on a db to a user using a profile.
+1. Gets profile from public.permission_profile;
+2. Checks if profile exists on db, if it does not, installs it;
+3. Grants profile to user on db.
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a9c74d6bdc2984793dfc39d964893819a_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_ac2a41f0388c97371d3e00f30e66519b6}\label{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_ac2a41f0388c97371d3e00f30e66519b6}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}!grant\+Permission\+With\+Profile\+Dict@{grant\+Permission\+With\+Profile\+Dict}}
+\index{grant\+Permission\+With\+Profile\+Dict@{grant\+Permission\+With\+Profile\+Dict}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}}
+\subsubsection{\texorpdfstring{grant\+Permission\+With\+Profile\+Dict()}{grantPermissionWithProfileDict()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager.\+grant\+Permission\+With\+Profile\+Dict (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{db\+Name,  }\item[{}]{permission\+Name,  }\item[{}]{user\+Name,  }\item[{}]{profile\+Dict,  }\item[{}]{update\+Permission = {\ttfamily False} }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Grants permission on a db using profileDict
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_ac2a41f0388c97371d3e00f30e66519b6_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_ac2a41f0388c97371d3e00f30e66519b6_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_afa4a334bad05fec83bdcb570ac716aaa}\label{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_afa4a334bad05fec83bdcb570ac716aaa}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}!is\+Permission\+Installed@{is\+Permission\+Installed}}
+\index{is\+Permission\+Installed@{is\+Permission\+Installed}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}}
+\subsubsection{\texorpdfstring{is\+Permission\+Installed()}{isPermissionInstalled()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager.\+is\+Permission\+Installed (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{abstract\+Db,  }\item[{}]{db\+Name,  }\item[{}]{permission\+Name }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Checks if permission is already installed;
+Returns True if it is installed and False otherwise.
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_afa4a334bad05fec83bdcb570ac716aaa_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_afa4a334bad05fec83bdcb570ac716aaa_icgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a3ad2577af28425c49f5013968937dde5}\label{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a3ad2577af28425c49f5013968937dde5}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}!revoke\+Permission@{revoke\+Permission}}
+\index{revoke\+Permission@{revoke\+Permission}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}}
+\subsubsection{\texorpdfstring{revoke\+Permission()}{revokePermission()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager.\+revoke\+Permission (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{db\+Name,  }\item[{}]{permission\+Name,  }\item[{}]{user\+Name }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}Revokes permission on a db from permissionName.
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a3ad2577af28425c49f5013968937dde5_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a26e0604c4107fc31713534e7a939de30}\label{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a26e0604c4107fc31713534e7a939de30}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}!update\+Setting@{update\+Setting}}
+\index{update\+Setting@{update\+Setting}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}}
+\subsubsection{\texorpdfstring{update\+Setting()}{updateSetting()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager.\+update\+Setting (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{setting\+Name,  }\item[{}]{edgv\+Version,  }\item[{}]{new\+Profile\+Dict }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}1. Gets all roles from all databases that have the same settingName;
+2. For each role, get users that are granted to them;
+3. Drop role, create a new one and grant it to previous users;
+4. Updates public.permission_profile on dsgtools_admindb with the newJsonDict.
+\end{DoxyVerb}
+ Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_a26e0604c4107fc31713534e7a939de30_cgraph}
+\end{center}
+\end{figure}
+\mbox{\Hypertarget{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_adcea6c57b219fa85a4e0c3ffa648c1ec}\label{class_dsg_tools_1_1_server_management_tools_1_1permission_manager_1_1_permission_manager_adcea6c57b219fa85a4e0c3ffa648c1ec}} 
+\index{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}!validate\+Json\+Profile@{validate\+Json\+Profile}}
+\index{validate\+Json\+Profile@{validate\+Json\+Profile}!Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager@{Dsg\+Tools\+::\+Server\+Management\+Tools\+::permission\+Manager\+::\+Permission\+Manager}}
+\subsubsection{\texorpdfstring{validate\+Json\+Profile()}{validateJsonProfile()}}
+{\footnotesize\ttfamily def Dsg\+Tools.\+Server\+Management\+Tools.\+permission\+Manager.\+Permission\+Manager.\+validate\+Json\+Profile (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{input\+Json\+Dict }\end{DoxyParamCaption})}
+
+\begin{DoxyVerb}1. Validates each key and value in inputJsonDict;
+2. If input is ok, returns True;
+3. If one piece of json is not valid, returns False.
+This validator does not validate the name of classes or names of categories. It only checks the format of dsgtools json profile.
+\end{DoxyVerb}
+ 
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+/\+Users/luiz/.\+qgis2/python/plugins/\+Dsg\+Tools/\+Server\+Management\+Tools/permission\+Manager.\+py\end{DoxyCompactItemize}

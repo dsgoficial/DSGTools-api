@@ -1,0 +1,5 @@
+<map id="DsgTools.UserTools.user_profiles.ManageUserProfiles.populateUsers" name="DsgTools.UserTools.user_profiles.ManageUserProfiles.populateUsers">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_user_tools_1_1user__profiles_1_1_manage_user_profiles.html#a1887fc986ce95413f9257b52fe64fbe0" title="DsgTools.UserTools.user\l_profiles.ManageUserProfiles.\l__init__" alt="" coords="347,5,547,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_user_tools_1_1user__profiles_1_1_manage_user_profiles.html#aa73f5b9db86127096b292eaf71e5b60a" title="DsgTools.UserTools.user\l_profiles.ManageUserProfiles.on\l_createUserButton_clicked" alt="" coords="339,81,554,133"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_user_tools_1_1user__profiles_1_1_manage_user_profiles.html#a77ef40627addf8820512fc30a2d01ae2" title="DsgTools.UserTools.user\l_profiles.ManageUserProfiles.on\l_removeUserButton_clicked" alt="" coords="339,157,554,209"/>
+</map>

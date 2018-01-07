@@ -1,0 +1,9 @@
+<map id="DsgTools.Factories.DbFactory.abstractDb.AbstractDb.buildFieldMap" name="DsgTools.Factories.DbFactory.abstractDb.AbstractDb.buildFieldMap">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1abstract_db_1_1_abstract_db.html#ab522beb68a06f7e325bc10a8c0b5506d" title="DsgTools.Factories.DbFactory.abstract\lDb.AbstractDb.checkAndOpenDb" alt="" coords="910,91,1160,130"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#ae29ae632868ad2dbd4e57494af7f6e08" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getStructureDict" alt="" coords="309,34,553,72"/>
+<area shape="rect" id="node7" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1spatialite_db_1_1_spatialite_db.html#aac7bf6aaccd3329118bafb1b9ecd1742" title="DsgTools.Factories.DbFactory.spatialite\lDb.SpatialiteDb.getStructureDict" alt="" coords="303,148,559,187"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="1208,98,1415,123"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="1463,91,1685,130"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1postgis_db_1_1_postgis_db.html#af7605f4bd100927ce43472e864764774" title="DsgTools.Factories.DbFactory.postgis\lDb.PostgisDb.getDatabaseVersion" alt="" coords="612,91,857,130"/>
+<area shape="rect" id="node8" href="$class_dsg_tools_1_1_factories_1_1_db_factory_1_1spatialite_db_1_1_spatialite_db.html#a69bc40bb88ed07db887aa94a652bf0c5" title="DsgTools.Factories.DbFactory.spatialite\lDb.SpatialiteDb.getDatabaseVersion" alt="" coords="607,206,862,244"/>
+</map>

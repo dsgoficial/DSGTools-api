@@ -1,0 +1,5 @@
+<map id="DsgTools.CustomWidgets.CustomDbManagementWidgets.newDomainWidget.NewDomainWidget.populateFromUiParameterJsonDict" name="DsgTools.CustomWidgets.CustomDbManagementWidgets.newDomainWidget.NewDomainWidget.populateFromUiParameterJsonDict">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1new_domain_widget_1_1_new_domain_widget.html#a44731719f99462b989f6d3872b9265c9" title="DsgTools.CustomWidgets.Custom\lDbManagementWidgets.newDomainWidget.\lNewDomainWidget.__init__" alt="" coords="401,5,684,57"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1_production_tools_1_1_field_tool_box_1_1field__setup_1_1_field_setup.html#aca5f44dea463a3d6404805334368dbb9" title="DsgTools.ProductionTools.\lFieldToolBox.field_setup.Field\lSetup.loadReclassificationConf" alt="" coords="440,81,645,133"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_production_tools_1_1_field_tool_box_1_1field__setup_1_1_field_setup.html#a35b475cfbf137a6517295b106789794f" title="DsgTools.ProductionTools.\lFieldToolBox.field_setup.Field\lSetup.on_loadButton_clicked" alt="" coords="732,81,931,133"/>
+</map>

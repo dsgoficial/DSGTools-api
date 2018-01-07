@@ -1,0 +1,4 @@
+var class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1new_domain_widget_1_1_validated_item_delegate =
+[
+    [ "createEditor", "class_dsg_tools_1_1_custom_widgets_1_1_custom_db_management_widgets_1_1new_domain_widget_1_1_validated_item_delegate.html#a91b890f188c48ba0a24dc330fede840d", null ]
+];

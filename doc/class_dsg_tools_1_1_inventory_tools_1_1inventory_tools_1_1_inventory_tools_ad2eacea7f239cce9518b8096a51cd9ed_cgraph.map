@@ -1,0 +1,8 @@
+<map id="DsgTools.InventoryTools.inventoryTools.InventoryTools.createMenu" name="DsgTools.InventoryTools.inventoryTools.InventoryTools.createMenu">
+<area shape="rect" id="node2" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#aeeb684b5ae66c23eb45ccffefb6c0485" title="DsgTools.dsg_tools.DsgTools.tr" alt="" coords="574,17,781,42"/>
+<area shape="rect" id="node4" href="$class_dsg_tools_1_1_inventory_tools_1_1inventory_tools_1_1_inventory_tools.html#a9cb93926117e29913885ec0f35ebe83c" title="DsgTools.InventoryTools.inventory\lTools.InventoryTools.insertExtension" alt="" coords="283,38,520,77"/>
+<area shape="rect" id="node5" href="$class_dsg_tools_1_1_complex_tools_1_1complex_window_1_1_complex_window.html#ab97194d04bc78eb3536f4c5c8325cbe1" title="DsgTools.ComplexTools.complex\lWindow.ComplexWindow.depth" alt="" coords="293,101,510,139"/>
+<area shape="rect" id="node6" href="$class_dsg_tools_1_1_inventory_tools_1_1inventory_tools_1_1_inventory_tools.html#ae5e3d8c75b14858504e8acc404dbf89e" title="DsgTools.InventoryTools.inventory\lTools.InventoryTools.depth" alt="" coords="290,163,513,202"/>
+<area shape="rect" id="node7" href="$class_dsg_tools_1_1_inventory_tools_1_1inventory_tools_1_1_inventory_tools.html#aa4ce23cbaf7b5c1c23e11e1925cefae9" title="DsgTools.InventoryTools.inventory\lTools.InventoryTools.removeExtension" alt="" coords="277,226,526,265"/>
+<area shape="rect" id="node3" href="$class_dsg_tools_1_1dsg__tools_1_1_dsg_tools.html#a15c3df2c1c8baf94cd08d32ca310e557" title="DsgTools.dsg_tools.DsgTools.add\l_action" alt="" coords="829,10,1051,49"/>
+</map>
